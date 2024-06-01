@@ -1,5 +1,4 @@
-Welcome to the Life Itself primary repo. This repo powers the next generation website and especially our digital notebook/garden.
-
+Welcome to the Life Itself primary repo. This repo powers the LifeItself.org website.
 Two main parts:
 
 `content/` most of the content including digital notebook/garden (recommending editing in obsidian)
@@ -11,13 +10,13 @@ You may also want to visit the [issues section »][issues] or check out the [dis
 [issues]: https://github.com/life-itself/community/issues
 [forum]: https://github.com/life-itself/community/discussions
 
-lifeitself.org website using Flowershow and NextJS.
+lifeitself.org website using [Flowershow](https://flowershow.app/) and NextJS.
 
 ## Layout
 
 ```
-flowershow    # standard flowershow template app installed
-content       # content for the site
+/    # standard flowershow template app installed
+/content       # content for the site
 ```
 
 ## Working on the site locally
