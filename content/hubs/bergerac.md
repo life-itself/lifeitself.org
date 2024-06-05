@@ -10,6 +10,8 @@ image: /assets/images/20200717_072527.jpg
 
 The Bergerac Praxis Hub is a space where individuals can come together to explore, practice, and embody new ways of being and relating to each other and the world. We see this space as a place for experimentation, exploration, and learning, where people can engage in self-work, creative work, and spiritual practices within a supportive and structured framework. We believe that this framework, which combines elements of monastic and secular practices, can facilitate the development of a new paradigm of living and being, one that is more connected, embodied, and expansive.
 
+[Sign up to our Newsletter to keep up to date with news and residency announcements.](https://praxishub.substack.com/)
+
 We are running and hosting a series of [residencies and retreats](https://lifeitself.org/programs) that are a spiritual cooking together of various ingredients: people, practices, workshops, art, community life and actual cooking. The residences open a space, a vacuum filled by people and practices too spiritual for politics, too “political” for the monasteries, where we sit with our trouble without giving into the narrowing impulse to “save the world”. 
 
 Residencies combine both an activating frame of collective practices (sitting meditation, cooking, cleaning and circling) with the space for you to continue your daily work – a key aspect is learning how we can integrate community and practice, collective and private, absolute and relative in our daily life. If you are interested, please let us know by using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform).
