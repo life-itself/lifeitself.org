@@ -65,7 +65,7 @@ export default function Residencies({ currentAndFutureResidencies, pastResidenci
         </p>
       </div>
       <div class="substack-post-embed">
-        <p lang="en">**Summer residency 2024 - July 10th - September 31st.**</p><a data-post-link href="https://praxishub.substack.com/p/summer-residency-11th-july-to-11th">**Read the full details here.**</a></div>
+        <p lang="en"><b><a data-post-link href="https://praxishub.substack.com/s/residencies">Stay up to date and read the full details here on our residencies substack.</b></a></p></div>
         <script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
       <div className="py-1">
         <h3 className="mt-8 mb-4 text-2xl font-bold font-headings tracking-tight text-primary">
