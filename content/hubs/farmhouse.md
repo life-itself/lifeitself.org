@@ -1,45 +1,36 @@
 ---
 title: "Farmhouse"
 created: 2020-08-11
-authors: 
-  - sophie84d503f875
 image: /assets/images/bergerac-photo-1.jpg
 ---
 
 ## Surrounded by nature
 
-The Farmhouse is situated in peaceful, natural surroundings just 5 minutes drive from Plum Village Monastery and 20 minutes from the Dordogne River. See [how to find us](https://lifeitself.org/how-to-find-us/) for more information on the location and instructions for getting here.
+The Farmhouse is situated in peaceful, natural surroundings just 5 minutes drive from Plum Village Monastery and 20 minutes from the Dordogne River. See [how to find us](#location) for more information on the location and instructions for getting here.
 
-- [![](/assets/images/20190618_152631.jpg)](https://artearthtech.files.wordpress.com/2020/08/20190618_152631.jpg)
+![](/assets/images/20190618_152631.jpg)
     
-- [![](/assets/images/img_20200825_205219-1.jpg)](https://artearthtech.files.wordpress.com/2020/09/img_20200825_205219-1.jpg?w=580)
+![](/assets/images/img_20200825_205219-1.jpg)
     
-- [![](/assets/images/qodutnz.jpg)](https://artearthtech.files.wordpress.com/2020/09/qodutnz.jpg?w=580)
+![](/assets/images/qodutnz.jpg)
     
-- [![](/assets/images/img_20200823_200544.jpg)](https://artearthtech.files.wordpress.com/2020/09/img_20200823_200544.jpg?w=580)
+![](/assets/images/img_20200823_200544.jpg)
     
-- [![](/assets/images/img_20200822_102408.jpg)](https://artearthtech.files.wordpress.com/2020/09/img_20200822_102408.jpg?w=580)
+![](/assets/images/img_20200822_102408.jpg)
     
-- [![](/assets/images/whatsapp-image-2020-08-19-at-14.40.11-1.jpg)](https://artearthtech.files.wordpress.com/2020/09/whatsapp-image-2020-08-19-at-14.40.11-1.jpg?w=580)
+![](/assets/images/whatsapp-image-2020-08-19-at-14.40.11-1.jpg)
     
-- [![](/assets/images/bergerac-photo-1-1-1024x768.jpg)](https://lifeitself.org/wp-content/uploads/2020/12/bergerac-photo-1-1.jpg)
+![](/assets/images/bergerac-photo-1-1-1024x768.jpg)
     
-- [![](/assets/images/115811446_1215685965443545_7392111846893456331_n1.jpg)](https://artearthtech.files.wordpress.com/2020/08/115811446_1215685965443545_7392111846893456331_n1.jpg?w=580)
-    
-
-## Your future home
-
-We are currently renovating the Farmhouse in order to create beautiful spaces for people who want to live together. It will provide a sanctuary and space in which to create a vibrant community, with spacious bedrooms and communal living areas and gardens. We will let you know as soon as the hub is open for residency applications.
-
-## Making progress, together
-
-If you want to know more about our progress, or come and help create this home together, please [contact us](https://lifeitself.org/contact/).
+![](/assets/images/115811446_1215685965443545_7392111846893456331_n1.jpg)
 
 ## Location
 
- 103 Chemin BoisMartin, Thenac, 24240, France.
+103 Chemin BoisMartin, Thenac, 24240, France
 
 [Google Maps link](https://maps.app.goo.gl/HtbgRNAjZhAZQDCBA)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.4585688343386!2d0.36973269999999997!3d44.75335030000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aac1664a70ae3d%3A0x2eacdd4d31e48ddd!2s103%20Chem.%20de%20Boismartin%2C%2024240%20Th%C3%A9nac!5e1!3m2!1sen!2sfr!4v1718038769587!5m2!1sen!2sfr" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Driving
 
