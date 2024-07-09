@@ -1,25 +1,30 @@
 ---
-title: Culturology
+title: Cultural Evolution
 created: 2023-09-21
 authors:
   - lauren-wigmore
+  - rufuspollock
 image: /assets/images/culturology-series-banner.jpg
 ---
-> Through understanding what has and what continues to shape our culture we can actively choose to create a wiser one.
 
-At Life Itself, we understand the complexities and intricacies that shape our worlds, from our individual choices, to our wider societal models. By diving deeper into Culturology, we can gain a greater understanding of humanities development, plight, and potential. This ultimately paves the way for us to take aligned action that works to cultivate healthier societies and the paradigm shift so desperately needed. 
+> Through understanding what has and what continues to shape our culture and how culture can evolve we can consciously contribute to creating wiser, weller ones.
+
+Cultural Evolution is a new science that provides greater understanding of our collective development and potential. This is essential context for us to take aligned action that works to cultivate healthier societies and the paradigm shift we need. 
 
 **By the end of this page you will know:**
-- What Culturology is
-- The factors that have and continue to influence our cultures and success
-- How WEIRD and non-WEIRD cultures differ and what we can learn from both
+
+- What is cultural evolution and culturology
+- The factors that have and continue to shape our cultures and their success or failure
+- How WEIRD (western educated industrialized rich and democratice) and non-WEIRD cultures differ and what we can learn from both
 - Where we can go to next
 - Key resources and literature
-## What is Culturology?
 
-Culturology is an interdisciplinary field that focuses on the study of culture and its various interrelated aspects. It encompasses the examination of how culture shapes and influences human behavior, beliefs, values, norms, practices, and expressions. Through the analysis of different forms of cultural production, such as literature, art, music, language, rituals, and the interdisciplinary areas such as history, politics, economics, technology, psychology, anthropology and sociology, culturology research supports the understanding of the development, and potential trajectory and impact of culture globally, locally and individually.
+## What is Cultural Evolution and "Culturology"?
 
-It plays an important role in uncovering the underlying meanings and influences that shape human experiences and societies, the development and evolution of culture, societies, human behavior and innovation and provides a deeper appreciation and comprehension of the diverse cultures that exist in the world. 
+We use ther term "culturology" for interdisciplinary field of cultural evolution and the broader study of culture and its change over time. It encompasses the examination of how culture shapes and influences human behavior, beliefs, values, norms, practices, and expressions. Through the analysis of different forms of cultural production, such as literature, art, music, language, rituals, and the interdisciplinary areas such as history, politics, economics, technology, psychology, anthropology and sociology, culturology research supports the understanding of the development, and potential trajectory and impact of culture globally, locally and individually.
+
+It plays an important role in uncovering the underlying meanings and influences that shape human experiences and societies, the development and evolution of culture, societies, human behavior and innovation and provides a deeper appreciation and comprehension of the diverse cultures that exist in the world.
+
 ## Cultural Evolution: A New Discipline is Born Series
 
 The best way to learn is through our Podcast Series. Through 4 episodes Rufus and Joseph take us on a journey to better understand what makes humans successful, how culture both develops and impacts us on individual and societal levels, the fundamental differences between those who are WEIRD and those who aren't, and how family, religion and psychological factors have all played a significant role in developing and influencing cultural development. 
