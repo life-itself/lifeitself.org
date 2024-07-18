@@ -35,7 +35,7 @@ These additional items can be done out of order and at any time (even before you
 
 - **Background on working with us:** Read about [[working-with-us|Working with Us]] and [[getting-stuff-done|Getting Stuff Done]]
 - **Laptop setup**: we recommend installing the following
-  - Google or Opera browser. We recommend Opera as it has [picture in picture support for video calls]([url](https://www.opera.com/features/video-pop-out)) which is very in useful
+  - Google or Opera browser. We recommend Opera as it has [picture in picture support for video calls](https://www.opera.com/features/video-pop-out) which is very in useful
   - [Obsidian](https://obsidian.md) for markdown editing
   - [Github desktop](https://desktop.github.com)
 - **Markdown**: read the [Markdown tutorial](https://datopian.com/playbook/markdown/) -- Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools.
