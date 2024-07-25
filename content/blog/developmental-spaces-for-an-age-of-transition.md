@@ -8,9 +8,9 @@ categories:
   - deliberately-developmental-spaces
   - whitepaper
 image: /assets/blog/developmental-spaces.webp
-description: We face a metacrisis that has deep roots in our neglected cultural and inner dimensions. Our ability to act and sense-make collectively is imperiled. Inner development is crucial to addressing this yet is hard to do. We advocate for new kinds of environments -- "developmental spaces" -- to support the deep, sustained multidimensional inner development that is critically needed.
+description: We face a metacrisis that has deep roots in our neglected cultural and inner dimensions. Our ability to act and sense-make collectively is imperiled. Inner development is crucial to addressing this yet is hard to do. We advocate for new kinds of environments - "developmental spaces" - to support the deep, sustained multidimensional inner development that is critically needed.
 ---
-We face a metacrisis that has deep roots in our neglected cultural and inner dimensions. Our ability to act and sense-make collectively is imperiled. Inner development is crucial to addressing this and is hard to do.
+We face a [[content/metacrisis|metacrisis]] that has deep roots in our neglected cultural and inner dimensions. Our ability to act and sense-make collectively is imperiled. Inner development is crucial to addressing this and is hard to do.
 
 We advocate the creation of new kinds of environments to support deep, sustained multidimensional inner development. This developmental work is central to addressing the multiple challenges of the [[metacrisis]] and supporting the evolution of a new socio-cultural paradigm -- a paradigm able to support sense-making and collaboration at the levels and scale required for flourishing planetary civilization.
 
@@ -26,7 +26,7 @@ We term these environments "developmental spaces" or "conscious collective space
 
 ## Context: we face a metacrisis that has deep roots in our neglected cultural and inner dimensions 
 
-There is a deep and growing divide in the US, Europe and potentially elsewhere around critical collective issues (e.g. climate, democracy, race etc) at a time when we need action on them. We refer to these as the metacrisis or polycrisis, to reflect their deeply interwoven nature.[^1]
+There is a deep and growing divide in the US, Europe and potentially elsewhere around critical collective issues (e.g. climate, democracy, race etc) at a time when we need action on them. We refer to these collective issues including the polarization and inaction as the metacrisis or polycrisis, to reflect their deeply interwoven nature.[^1]
 
 At least in part, this is connected to a loss of meaning and belonging: previous sources of these have withered away e.g. spirituality or wider cultural narratives (progress, solidarity etc), and deeper senses of who we are and how we relate to the world have become lost. This is particularly so for young adults, who are at a critical point in their lives where their sense of place and purpose is forming[^2] – and who as the next generation are crucial to driving social change.
 
@@ -114,11 +114,11 @@ We use the term “being” (and ontological) rather than, say, psyche/psycholog
 
 ## What is *sustained* development?
 
-Most simply put sustained means going “from states to traits”. That is, going beyond having a one-off experience of a capacity or “state” to have this as a capacity that is ongoingly sustained – a “trait”.
+Most simply put sustained means going “from states to traits”. That is, going beyond having a one-off experience of a capacity -- a “state” -- to having that capacity ongoingly sustained – a “trait”.
 
-For example, a child when first learning to stand may only manage this for a few moments of a second or two. This would be a temporary state not a trait, it would not be sustained growth. Sustained growth would be when they are consistently able to stand.
+For example, a child when first learning to stand may only manage this for a few seconds. This would be a temporary state not a trait, it would not be sustained growth. Sustained growth would be when they are consistently able to stand.
 
-Similarly, we want to nurture sustained adult development. Put most crudely, many of us have had powerful experiences on retreat or at events, yet can find it hard to maintain and integrate those insights once back in our “daily lives”.
+Similarly, we want to nurture sustained adult development. For example, many of us may have had powerful experiences on retreat or at events, yet can find it hard to maintain and integrate those insights once back in our “daily lives”.
 
 ## What is multidimensional (growth)?
 
@@ -146,15 +146,15 @@ First, given the urgent need for paradigm shift, it is important to focus on the
 
 Relatedly, engaging around 10% of young adults appears attainable *even without accompanying wider systemic change*. In other words, we would not have to rely on shifts in government policy or other social institutions and conventions to reach this number of people, preventing our impact being hamstrung by broader systemic inertia.
 
-[^1]: For more, see [<u>https://www.commonweal.org/program/resilience/</u>][] and [<u>https://resilienceproject.ngo</u>][]
+[^1]: For more, see https://www.commonweal.org/program/resilience/ and https://resilienceproject.ngo
 
-[^2]: For evidence of the mental health decline in young people more generally see, for example: *The Age of Anxiety? Birth Cohort Change in Anxiety and Neuroticism, 1952-1993,* Jean M. Twenge (2000) [<u>https://pubmed.ncbi.nlm.nih.gov/11138751/</u>][]
+[^2]: For evidence of the mental health decline in young people more generally see, for example: *The Age of Anxiety? Birth Cohort Change in Anxiety and Neuroticism, 1952-1993,* Jean M. Twenge (2000) https://pubmed.ncbi.nlm.nih.gov/11138751/
 
-[^3]: See “What is Development” in the Appendix for more on personal and collective being and the “[<u>Primacy of Being</u>][]” for a much fuller exposition of the general thesis.
+[^3]: See “What is Development” in the Appendix for more on personal and collective being and the [[content/primacy-of-being|Primacy of Being]] for a much fuller exposition of the general thesis.
 
 [^4]: To adapt a line from Audre Lorde: “The master's tools will never dismantle the master's house”. If we are to properly equip young people to lead humanity away from the precipice of collapse, they must be given opportunities to grow and develop in ways not afforded by current mainstream social institutions.
 
-[^5]: See [<u>https://lifeitself.us/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis/</u>][]
+[^5]: See https://lifeitself.org/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis/
 
 [^6]: See “Why 10%” in appendix for more on that figure.
 
