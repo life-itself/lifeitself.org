@@ -95,15 +95,7 @@ This is done by simply acknowledging our feelings but not be “caught-up in the
 Science in its relatively short engagement with Buddhist philosophy has not tested this notion thoroughly, but published reviews of the mindfulness literature suggest links between the extinction of attachment by mindfulness training and well-known phenomenon, such as extinction of fear by exposure conditioning.[^4]
 
 [^4]: [How Does Mindfulness Meditation Work? Proposing Mechanisms of Action From a Conceptual and Neural Perspective](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.477.2270&rep=rep1&type=pdf), and [Perspectives on Psychological Science , 2011 6: 537, Britta K. Hölzel, Sara W. Lazar, Tim Gard, Zev Schuman-Olivier, David R. Vago and Ulrich Ott](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.477.2270&rep=rep1&type=pdf)
-## Appendix: A Loving Father Rejects His Son
 
-An old story attributed to the historical "Buddha", Siddhartha Gautama, communicates the Buddhist perspective elegantly (Recounted in _The Art of Power_ by Thich Nhat Hanh, pp.87-89)
-
-The Buddha tells the story of a merchant, a widower, who went away in a business trip and left his little boy at home. While he was away, bandits came and burned down the whole village. When the merchant returned, he didn't find his house, it was just a heap of ash. There was the charred body of a child close by. He threw himself on the ground and cried and cried. He beat his chest and pulled his hair. The next day, he had the little body cremated. Because his beloved son was his only reason for existence, he sewed a beautiful velvet bag and put the ashes inside. Wherever he went, he took that bag of ashes with him. Eating, sleeping, working, he always carried it with him.
-
-In fact, his son had been kidnapped by the bandits. Three months later, the boy escaped and returned home. When he arrived, it was two o'clock in the morning. He knocked on the door of the new house his father had built. The poor father was lying on his bed crying, holding the bag of ashes, and he asked, 'Who is there?' 'It's me, Daddy, your son.' The father answered, 'That's not possible. My son is dead. I've cremated his body and I carry his ashes with me. You must be some naughty boy who's trying to fool me. Go away, don't disturb me!' He refused to open the door, and there was no way for the little boy to come in. The boy had to go away, and the father lost his son forever.
-
-After telling the story, the Buddha said, 'If at some point in your life you adopt an idea or a perception as the absolute truth, you close the door of your mind. This is the end of seeking the truth. And not only do you no longer seek the truth, but even if the truth comes in person and knocks on your door, you refuse to open it. Attachment to views, attachment to ideas, attachment to perceptions are the biggest obstacle to the truth.'
 
 ## References
 
@@ -141,6 +133,40 @@ Buddhism and Ontology
 
 - [Jonathan Ekstrom: Non Attachment to Views](https://lifeitself.org/2016/10/06/non-attachment-to-views-by-jonathan-ekstrom/)
 - [Uncommon Wisdom, Gautama – Introduction](https://lifeitself.org/2016/10/23/my-introduction-to-gautamas-uncommon-wisdom/)
+
+## Appendix: A Loving Father Rejects His Son
+
+An old story attributed to the historical "Buddha", Siddhartha Gautama, communicates the Buddhist perspective elegantly (Recounted in _The Art of Power_ by Thich Nhat Hanh, pp.87-89)
+
+The Buddha tells the story of a merchant, a widower, who went away in a business trip and left his little boy at home. While he was away, bandits came and burned down the whole village. When the merchant returned, he didn't find his house, it was just a heap of ash. There was the charred body of a child close by. He threw himself on the ground and cried and cried. He beat his chest and pulled his hair. The next day, he had the little body cremated. Because his beloved son was his only reason for existence, he sewed a beautiful velvet bag and put the ashes inside. Wherever he went, he took that bag of ashes with him. Eating, sleeping, working, he always carried it with him.
+
+In fact, his son had been kidnapped by the bandits. Three months later, the boy escaped and returned home. When he arrived, it was two o'clock in the morning. He knocked on the door of the new house his father had built. The poor father was lying on his bed crying, holding the bag of ashes, and he asked, 'Who is there?' 'It's me, Daddy, your son.' The father answered, 'That's not possible. My son is dead. I've cremated his body and I carry his ashes with me. You must be some naughty boy who's trying to fool me. Go away, don't disturb me!' He refused to open the door, and there was no way for the little boy to come in. The boy had to go away, and the father lost his son forever.
+
+After telling the story, the Buddha said, 'If at some point in your life you adopt an idea or a perception as the absolute truth, you close the door of your mind. This is the end of seeking the truth. And not only do you no longer seek the truth, but even if the truth comes in person and knocks on your door, you refuse to open it. Attachment to views, attachment to ideas, attachment to perceptions are the biggest obstacle to the truth.'
+
+## Appendix: Excerpts
+
+### A real world impact of "attachment" 
+
+Lewandowsky et al. 2012, pp. 106-107:
+
+> On August 4, 1961, a young woman gave birth to a healthy baby boy in a hospital at 1611 Bingham St., Honolulu. That child, Barack Obama, later became the 44th president of the United States. Notwithstanding the incontrovertible evidence for the simple fact of his American birth—from a Hawaiian birth certificate to birth announcements in local papers to the fact that his pregnant mother went into the Honolulu hospital and left it cradling a baby—a group known as “birthers” claimed Obama had been born outside the United States and was therefore not eligible to assume the presidency. Even though the claims were met with skepticism by the media, polls at the time showed that they were widely believed by a sizable proportion of the public (Travis, 2010), including a majority of voters in Republican primary elections in 2011 (Barr, 2011).
+> 
+> In the United Kingdom, a 1998 study suggesting a link between a common childhood vaccine and autism generated considerable fear in the general public concerning the safety of the vaccine. The UK Department of Health and several other health organizations immediately pointed to the lack of evidence for such claims and urged parents not to reject the vaccine. The media subsequently widely reported that none of the original claims had been substantiated. Nonetheless, in 2002, between 20% and 25% of the public continued to believe in the vaccine- autism link, and a further 39% to 53% continued to believe there was equal evidence on both sides of the debate (Hargreaves, Lewis, & Speers, 2003). More worryingly still, a substantial number of health professionals continued to believe the unsub- stantiated claims (Petrovic, Roberts, & Ramsay, 2001). Ulti- mately, it emerged that the first author of the study had failed to disclose a significant conflict of interest; thereafter, most of the coauthors distanced themselves from the study, the journal offi- cially retracted the article, and the first author was eventually found guilty of misconduct and lost his license to practice medi- cine (Colgrove & Bayer, 2005; Larson, Cooper, Eskola, Katz, & Ratzan, 2011).
+
+### It is not just the facts, it is the narrative we tell about the facts
+
+From "I don’t want to be right":
+
+> Even when we think we’ve properly corrected a false belief, the original exposure often continues to influence our memory and thoughts. In a series of studies, Lewandowsky and his colleagues at the University of Western Australia asked university students to read the report of a liquor robbery that had ostensibly taken place in Australia’s Northern Territory. Everyone read the same report, but in some cases racial information about the perpetrators was included and in others it wasn’t. In one scenario, the students were led to believe that the suspects were Caucasian, and in another that they were Aboriginal. At the end of the report, the racial information either was or wasn’t retracted. Participants were then asked to take part in an unrelated computer task for half an hour. After that, they were asked a number of factual questions (“What sort of car was found abandoned?”) and inference questions (“Who do you think the attackers were?”). After the students answered all of the questions, they were given a scale to assess their racial attitudes toward Aboriginals.
+> 
+> Everyone’s memory worked correctly: the students could all recall the details of the crime and could report precisely what information was or wasn’t retracted. But the students who scored highest on racial prejudice continued to rely on the racial misinformation that identified the perpetrators as Aboriginals, even though they knew it had been corrected. They answered the factual questions accurately, stating that the information about race was false, and yet they still relied on race in their inference responses, saying that the attackers were likely Aboriginal or that the store owner likely had trouble understanding them because they were Aboriginal. This was, in other words, a laboratory case of the very dynamic that Nyhan identified: strongly held beliefs continued to influence judgment, despite correction attempts—even with a supposedly conscious awareness of what was happening.
+> 
+> In a follow-up, Lewandowsky presented a scenario that was similar to the original experiment, except now, the Aboriginal was a hero who disarmed the would-be robber. This time, it was students who had scored lowest in racial prejudice who persisted in their reliance on false information, in spite of any attempt at correction. In their subsequent recollections, they mentioned race more frequently, and incorrectly, even though they knew that piece of information had been retracted. … 
+
+### Relation to self-identity
+
+> False beliefs, it turns out, have little to do with one’s stated political affiliations and far more to do with **self-identity**: What kind of person am I, and what kind of person do I want to be? All ideologies are similarly affected. [emphasis added]
 
 ## Appendix: An Example of Cognitive Dissonance and Retained Beliefs
 
