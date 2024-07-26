@@ -52,6 +52,6 @@ Overall, we believe common terminology would be helpful and necessary as we seek
 
 ![An engraving-style image depicting a bridge connecting two eras](../assets/first-renaissance-to-second-renaissance-bridge.webp)
 
-[^1] For a definition of and introduction to the Second Renaissance, see [https://secondrenaissance.net/](https://secondrenaissance.net/) and https://secondrenaissance.net/paper.
+[^1]: For a definition of and introduction to the Second Renaissance, see [https://secondrenaissance.net/](https://secondrenaissance.net/) and https://secondrenaissance.net/paper.
 
-[^2] See [https://secondrenaissance.net/ecosystem/pip](https://secondrenaissance.net/ecosystem/pip) for the 2021 report. For an overview of some of the main names and terms, see https://secondrenaissance.net/publications/overview-ecosystem-names.**
+[^2]: See [https://secondrenaissance.net/ecosystem/pip](https://secondrenaissance.net/ecosystem/pip) for the 2021 report. For an overview of some of the main names and terms, see https://secondrenaissance.net/publications/overview-ecosystem-names.**
