@@ -53,7 +53,6 @@ When you set up systems, try to pick usernames that will be easy for others to r
   * When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts.
   * [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
 * GitHub -- https://github.com. At Life Itself we use GitHub for collaborating on projects and deploying our website. 
-* Bitwarden -- https://bitwarden.com (password manager). This will give you access to shared team passwords. And you can also use Bitwarden to store your passwords as you work through the onboarding process.
 
 ---
 
@@ -240,6 +239,10 @@ Make sure to familiarise yourself with our [meeting protocol](https://playbook.d
 Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools, including HackMD and GitHub.
 
 If you are new to Markdown, see the [Markdown tutorial](https://playbook.datopian.com/markdown/)
+
+### Passwords and Logins
+
+Passwords and logins for common services can be found in a private google sheet. Check with your onboarder for access.
 
 ---
 
