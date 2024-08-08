@@ -44,4 +44,4 @@ _Subscribe_ _to our mailing list to be kept up-to-date with future activities_
 
 ## News
 
-[[blog/2020/10/06/preface-to-an-ontological-politics |A preface to Ontological Politics]]
+[[blog/2020/10/06/preface-to-an-ontological-politics|A preface to Ontological Politics]]
