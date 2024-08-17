@@ -1,5 +1,5 @@
 ---
-title: '"Atomic Habits by James Clear: Summary and Notes"'
+title: "Atomic Habits by James Clear: Summary and Notes"
 created: 2024-08-15
 authors:
   - rufuspollock
