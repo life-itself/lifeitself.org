@@ -30,9 +30,9 @@ Like the Kibbutz there is a pioneering spirit both in ethos and in concretely re
 
 In the case of the Kibbutz, this vision was centered around Zionism, while for Art / Earth / Tech our focus is more on creating a radically wiser, weller world.
 
-In the case of Kibbutz that vision was centered around Zionism and socialism, whilst for Art / Earth / Tech our focus is pragmatic utopianism for radically wiser, weller, more compassionate global society.
+In the case of Kibbutz that vision was centered around Zionism and socialism, whilst for Art / Earth / Tech our focus is more on pragmatic utopianism and creating a radically wiser, weller world.
 
-In summary the Kibbutz part is indicating the idea that we want to create intentional communities that integrate pragmatism, pioneering spirit, connected with a big, utopian vision.
+In summary, the Kibbutz part is about wanting to create intentional communities with a pragmatic, pioneering spirit that are connected to a utopian ["big vision"](/big-vision/).
 
 ## What's the Buddhism part?
 
