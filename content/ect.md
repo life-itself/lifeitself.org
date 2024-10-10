@@ -1,13 +1,12 @@
 ---
 title: Embodying Collective Transformation
 description: Embodying Collective Transformation (ECT) was a 3-month experiment in creating a deliberately developmental space for conscious engagement in inner, interpersonal and systemic development practices. 
-image:  
 created: 2024-09-27
 ---
 
-[DOWNLOAD BUTTON]
+<a className="btn btn-blue sm:text-lg no-underline" target="_blank" href="/assets/ECT-Report.pdf">View and download the report &raquo;</a>
 
-_TESTIMONIAL_
+> _“We were not being taught in a simplistic way: ‘This is how you do community’, rather we were discovering together. There's something very subtle about this work. … It's like we're all each other's teachers. This kind of learning is so important in these times – to discover for ourselves how to get on with people, how to be a nourishing and positive and respecting part of a community.”_ - Stephen Reid
 
 ## Overview
 
@@ -25,9 +24,9 @@ The report details the design, implementation and learnings from this innovative
 - Insights into shared leadership, peer-led groups, and collaborative decision-making.
 - The challenges, learnings and next steps.
 
-[BUTTON DOWNLOAD THE REPORT HERE]
+<a className="btn btn-blue sm:text-lg no-underline" target="_blank" href="/assets/ECT-Report.pdf">View and download the report &raquo;</a>
 
-_Testimonial_
+> _“It's like a microcosm, so everything that happens in this container is happening in the wider world. So how do we accept that, not need it to be completely fixed, not need things to be the way that we think they should be, but at the same time observe that this is happening, accept that it's happening and still gently nudge the system towards something that is more wholesome.”_ - Sen Zhan
 
 ## What’s Next?
 
