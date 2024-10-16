@@ -19,22 +19,6 @@ export default function Home({ collabs, posts, keyWritings, keyInitiatives, upco
       {/* HERO */}
       <Hero />
 
-      {/* COLLABORATORS */}
-      <BaseSection>
-        <BaseSection.Title>
-          Collaborators
-        </BaseSection.Title>
-
-        <div className="grid gap-8 grid-cols-2 md:grid-cols-6 lg:grid-cols-none lg:grid-flow-col lg:auto-cols-auto grayscale">
-          {collabs.map(collaborator => (
-            <a key={collaborator.title} href={collaborator.url} className="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-              <img className="h-12" src={collaborator.logo} alt={collaborator.title} />
-            </a>
-          ))}
-        </div>
-
-      </BaseSection>
-
       {/* WHAT WE'RE ABOUT */}
       <BaseSection>
         <BaseSection.Title>
@@ -108,29 +92,6 @@ export default function Home({ collabs, posts, keyWritings, keyInitiatives, upco
             </div>
           </div>
         </div>
-
-      </BaseSection>
-
-      {/* KEY IDEAS */}
-      <BaseSection>
-        <BaseSection.Title>
-          Key Ideas
-        </BaseSection.Title>
-        <BaseSection.Description>
-          Read some of our most essential pieces.
-        </BaseSection.Description>
-
-        <div className="mx-auto max-w-2xl lg:max-w-none">
-          <div className="grid grid-cols-1 gap-x-8 gap-y-20 content-stretch lg:grid-cols-3">
-            {keyWritings?.map((post) => (
-              <BaseCard key={post._id} {...post} date={post.date ?? post.created} author={post.authors[0]} />
-            ))}
-          </div>
-        </div>
-
-        <BaseSection.Link href="/ideas">
-          Discover More Ideas&nbsp;<span aria-hidden="true">&rarr;</span>
-        </BaseSection.Link>
       </BaseSection>
 
       {/* WHAT WE'RE UP TO */}
@@ -216,7 +177,6 @@ export default function Home({ collabs, posts, keyWritings, keyInitiatives, upco
   )
 }
 
-
 export async function getStaticProps() {
   const posts = await getBlogs(9)
 
@@ -273,47 +233,9 @@ export async function getStaticProps() {
     },
   ]
 
-  const collabs = [
-    {
-      title: "Plum Village",
-      url: "",
-      logo: "assets/site/collaborators/Plum-village-logo.png"
-    },
-    {
-      title: "LSE",
-      url: "",
-      logo: "assets/site/collaborators/LSE_Logo.png"
-    },
-    {
-      title: "Open Knowledge International",
-      url: "",
-      logo: "assets/site/collaborators/Open-Knowledge-International-Logo.png"
-    },
-    {
-      title: "Rockefeller Foundation",
-      url: "",
-      logo: "assets/site/collaborators/Rockefeller-Foundation.png"
-    },
-    {
-      title: "IPPR",
-      url: "",
-      logo: "assets/site/collaborators/IPPR-Logo_pink.png"
-    },
-    {
-      title: "Untitled",
-      url: "",
-      logo: "assets/site/collaborators/untitled_logo.png"
-    },
-    {
-      title: "CRI",
-      url: "",
-      logo: "assets/site/collaborators/CRI-logo.png"
-    },
-  ]
-
   return {
     props: {
-      collabs, posts, keyWritings, keyInitiatives, upcomingResidencies, podcasts, learnTopics
+      posts, keyWritings, keyInitiatives, upcomingResidencies, podcasts, learnTopics
     }
   }
 }
