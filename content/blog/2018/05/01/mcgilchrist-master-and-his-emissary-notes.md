@@ -1,12 +1,12 @@
 ---
-title: "Notes on McGilchrist's The Master and His Emissary"
+title: Notes on McGilchrist's The Master and His Emissary
 created: 2018-05-01
-categories: 
+categories:
   - book-notes
   - ontology
-authors: 
+authors:
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-13.png
+image: /assets/images/iain-mcgilchrist-master-emissary.png
 ---
 
 Notes on McGilchrist’s _The Master and His Emissary: The Divided Brain and the Making of the Western World_.
