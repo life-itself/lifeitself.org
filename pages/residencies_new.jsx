@@ -55,6 +55,7 @@ export default function Residencies({ currentAndFutureResidencies, pastResidenci
       <div className="mx-auto docs prose prose-headings:font-headings prose-a:break-words">
         <p className="italic text-center">Are you struggling to ‘find the others’? Are you disillusioned with ‘revolving door’ retreat culture, and are looking for something deeper with a long-term view?
         </p>
+        <img className="text-center" src="assets/images/residencyhomepage.jpg"/>
         <p className="text-center">Life Itself residencies offer a space for those dedicated to a Second Renaissance. Our hubs in France engage participants in guided or self-directed residencies, exploring deep questions from one week to a few months.
         </p>
         <div className="mt-10 flex items-center justify-center gap-x-6 my-10">
