@@ -27,9 +27,9 @@ Residencies combine both an activating frame of collective practices (sitting me
 * **More questions?** Contact praxis@lifeitself.org. 
 
 ## About the Praxis Hub
-Created in 2020 the concept of this space was developped by Valérie Duvauchelle and Liam Kavannagh as a metamodern secular monastery to explore the concept of post secularity within Praxis. 
-During this time several  kind of residencies happened at the hub 
-- Post secular praxis residencies (with or without a theme) 
+Created in 2020 the concept of this space was developped by Valérie Duvauchelle and Liam Kavanagh as a metamodern secular monastery to explore the concept of post secularity within Praxis. 
+During this time several  kind of residencies happened at the hub: 
+- Praxis residencies (with or without a theme) 
 - Training residencies (resiliency circles, emergent dialogues) 
 - Retreats (tenzo) 
 - Life itself gatherings  
