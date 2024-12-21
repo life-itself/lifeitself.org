@@ -1,20 +1,20 @@
 import Script from "next/script"
+import Link from 'next/link'
 
 export function Hero() {
   return (
     <section className="lg:relative">
-      <div className="font-archivo mx-auto w-full max-w-7xl pt-16 pb-20 text-center lg:pt-48 lg:text-left">
+      <div className="font-archivo mx-auto w-full max-w-7xl pt-16 pb-20 text-center lg:pt-16 lg:text-left">
         <div className="px-4 sm:px-8 lg:w-1/2 xl:pr-16">
           <h1 className="text-2xl font-headings font-bold tracking-tight text-primary xl:text-4xl flex flex-col">
-            Ever asked yourself ... How can I live a happier life? Create a better society?
+            We are a collective of artists, academics and activists committed to rigorous inquiry, practical action, inner development, and conscious community.
           </h1>
-          <p className="mx-auto mt-3 max-w-md text-base text-gray-500 sm:text-base md:mt-5 md:max-w-3xl">
-            We’re an open community dedicated to the art of wiser living and social transformation. We favor approaches that prioritize inner development and cultural change in a rigorous, practical way.
+          <h2 className="mx-auto mt-3 max-w-md text-base text-gray-500 text-xl xl:text-2xl md:mt-5 md:max-w-3xl">
+            We offer a <span className="font-bold">gathering place</span> and <span className="font-bold">incubator</span> for people and projects committed to pioneering a radically wiser world.
             <br /><br />
-            Sign up to our monthly newsletter for latest updates, projects and community news.
-          </p>
+            Find out about our <Link href="residencies" className="underline">upcoming residencies</Link>, join the <Link href="community" className="underline">online community</Link> or subscribe to stay up to date with our latest news.
+          </h2>
           <div className="mt-10 sm:mt-12">
-
             <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css" />
             <div className="!p-0 sib-form">
               <div
@@ -136,7 +136,7 @@ export function Hero() {
         </div>
       </div>
       <div className="relative h-64 w-full sm:h-72 md:h-96 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 lg:h-full">
-        <img className="absolute inset-0 mx-auto h-full object-fit" src="/assets/lifeitself-landingpage.webp" alt="" />
+        <img className="absolute inset-0 mx-auto h-5/6 object-fit" src="/assets/lifeitself-landingpage.webp" alt="" />
       </div>
     </section >
   )

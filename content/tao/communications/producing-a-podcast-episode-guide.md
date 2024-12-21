@@ -14,7 +14,9 @@ Below is a checklist of all the steps to be taken when producing a podcast episo
 - [ ] Guest informed that the episode is out and has been sent the links.
 - [ ] The new episode has been announced on twitter.
 - [ ] Email announcing new episode has been sent to mailing list.
-- [ ] Secondary content has been shared on social media
+- [ ] Secondary content has been shared on social media.
+
+*_always share the link to the episode podcast page unless stated otherwise_
 
 ## Tasks
 

@@ -27,6 +27,12 @@ Residencies combine both an activating frame of collective practices (sitting me
 * **More questions?** Contact praxis@lifeitself.org. 
 
 ## About the Praxis Hub
+Created in 2020 the concept of this space was developped by Valérie Duvauchelle and Liam Kavanagh as a metamodern secular monastery to explore the concept of post secularity within Praxis. 
+During this time several  kind of residencies happened at the hub: 
+- Praxis residencies (with or without a theme) 
+- Training residencies (resiliency circles, emergent dialogues) 
+- Retreats (tenzo) 
+- Life itself gatherings  
 
 Located just a few steps from the river and a serene park, this space is a one-of-a-kind setting comprising three small buildings. An old French palazzo, where traces of the past engage us in a heteroclite manner, adds to the unique atmosphere. It is the perfect place for deep exploration amidst its atmospheric surroundings.
 
@@ -34,15 +40,14 @@ Located just a few steps from the river and a serene park, this space is a one-o
 
 The gorgeous view of the Dordogne from just outside the house.
 
-### The Praxis Lab 
+### The Praxis Ecology 
 
 The Bergerac Hub is a unique junction for people to explore innovative ways of relating to one another and the world. It's an experimental ground for self-growth, creativity, and spiritual endeavors within a nurturing structure, blending monastic and secular elements. This structure assists in cultivating a more connected and expansive lifestyle, establishing a fresh paradigm of existence.
 
-The Hub, envisioned as a laboratory for systemic transformation, is an incubator for metamodern living—based on interdependence, mindfulness, and compassion. It's a setting where we analyze the impact of our practices on individual and communal well-being and investigate their potential for societal transformation. Practices already hosted include meditation, contemplative walks, Nordic singing, resonance singing, jam labs, forums, deep democracy, sharing circles, world cafes, enlightenment intensive, multiplayer metta meditation, zen food retreat, philosophical fellowship, and emergent dialogues.
+The Hub, envisioned as a laboratory for systemic transformation, mindfulness, and compassion. It's a setting where we analyze the impact of our practices on individual and communal well-being and investigate their potential for societal transformation. Practices are framed under a Praxis ecology designed by valerie Duvauchelle, a secular zen monk,  that all participants nourrish with their pwn practces . Besides our 5 minimum viable practices ( MVP) evening sessions include circling, resonance singing, jam labs, moving debates, dialoguos, world cafes, authentic relating, multiplayer metta meditation, philosophical fellowship, and emergent dialogues.
 
-The Praxis Lab within the Hub plays a pivotal role in data collection and research, exploring the relationships between spaces, structures, food, and practices. Its purpose is to decipher the emotional, spiritual, and intellectual effects of these elements and the actions they inspire. Our research aims to understand and define the inter-relational human technology that fuels a new way of interacting with the world. Our focus is to document these practices, exploring questions such as: what triggers action beyond thinking, what internal shifts are activated by this, and what are the impacts of this approach? An additional aspect of exploration is the concept of a space as a practice place (dojo) and how to reproducibly document self-research. 
+The Praxis ecology  plays a pivotal role in  exploring the relationships between spaces, structures, food, and practices. Its purpose is to decipher the emotional, spiritual, and intellectual effects of these elements and the actions they inspire. Our research aims to understand and define the inter-relational human technology that fuels a new way of interacting with the world. Our focus is to document these practices, exploring questions such as: what triggers action beyond thinking, what internal shifts are activated by this, and what are the impacts of this approach? An additional aspect of exploration is the concept of a conscious space as a practice place (dojo). 
 
-**More information on Praxis research can be found in this [talk](https://lifeitself.org/blog/2023/06/20/participatory-wisdom-with-marc-santolini) by Life Itself Research Co-Director Marc Santolini.**
 
 ### The Praxis food 
 

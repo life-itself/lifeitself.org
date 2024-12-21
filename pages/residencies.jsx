@@ -2,6 +2,9 @@ import Link from "next/link";
 import getResidencies from "../content/getters/residencies";
 import { formatDate } from "@/lib/formatDate.js";
 
+<div>A gathering place for people who want to transition their lives and their societies to a radically wiser path</div>
+  
+
 function Residency({residency}) {
   return (
     <article key={residency._id} className="relative isolate flex flex-col gap-8 lg:flex-row lg:items-center">
@@ -48,14 +51,15 @@ function Residency({residency}) {
 export default function Residencies({ currentAndFutureResidencies, pastResidencies }) {
   return (
     <div className="relative mx-auto lg:max-w-4xl px-4 sm:px-16 lg:px-20 mt-16 sm:mt-20 space-y-8">
-      <h1 className="text-4xl font-bold font-headings tracking-tight text-primary sm:text-5xl">Residencies and Courses</h1>
-      <div className="docs prose prose-headings:font-headings prose-a:break-words">
-        <p>We are running and hosting a series of residencies and retreats that are a spiritual cooking together of various 
-          ingredients: people, practices, workshops, art, community life and actual cooking. The residences open a space, a 
-          vacuum filled by people and practices too spiritual for politics, too “political” for the monasteries, where we sit 
-          with our trouble without giving into the narrowing impulse to “save the world”.
+      <h1 className="text-3xl text-center font-bold font-headings tracking-tight text-primary sm:text-4xl">A gathering place for people who want to transition their lives and their societies to a radically wiser path.</h1>
+      <div className="mx-auto docs prose prose-headings:font-headings prose-a:break-words">
+        <p className="italic text-center">Are you struggling to ‘find the others’? Are you disillusioned with ‘revolving door’ retreat culture, and are looking for something deeper with a long-term view?
         </p>
-        <p className="mt-8">
+        <img className="text-center" src="assets/images/residencyhomepage.jpg"/>
+        <p className="text-center">Life Itself residencies offer a space for those dedicated to a Second Renaissance. Our hubs in France engage participants in guided or self-directed residencies, exploring deep questions from one week to a few months.
+        </p>
+        <div className="mt-10 flex items-center justify-center gap-x-6 my-10">
+        <p className="text-center mt-8">
           <Link
             href="/hubs/bergerac"
             className="rounded-md bg-secondary px-4 py-2 text-sm font-medium text-primary shadow-sm hover:bg-secondary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-secondary no-underline"
@@ -63,15 +67,21 @@ export default function Residencies({ currentAndFutureResidencies, pastResidenci
             Learn More About The Hub&nbsp;<span aria-hidden="true">&rarr;</span>
           </Link>
         </p>
+        <p className="text-center mt-8">
+          <Link
+            href="https://praxishub.substack.com/s/residencies"
+            className="rounded-md bg-black px-4 py-2 text-sm font-medium text-white shadow-sm hover:bg-secondary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-secondary no-underline"
+          >
+            See Upcoming Residencies&nbsp;<span aria-hidden="true">&rarr;</span>
+          </Link>
+        </p>
+          </div>
       </div>
-      <div class="substack-post-embed">
-        <p lang="en"><b><a data-post-link href="https://praxishub.substack.com/s/residencies">Stay up to date and read the full details here on our residencies substack.</a></b></p></div>
-        <script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
       <div className="py-1">
         <h3 className="mt-8 mb-4 text-2xl font-bold font-headings tracking-tight text-primary">
           Residencies & Courses
         </h3>
-        <p>If you require more information about any of our residencies or want to discuss other potential opportunities please contact us at praxis@lifeitself.org</p>
+        <p className="text-slate-700">If you require more information about any of our residencies or want to discuss other potential opportunities please contact us at praxis@lifeitself.org.</p>
         <div className="my-8 space-y-20 lg:my-8 lg:space-y-16 text-primary max-w-3xl mx-auto">
           {currentAndFutureResidencies?.map((residency) => (
             <Residency residency={residency} />
@@ -243,6 +253,7 @@ export async function getStaticProps() {
     .sort((a,b) => new Date(b.start) - new Date(a.start))
 
   return {
+    
     props: {
       currentAndFutureResidencies,
       pastResidencies,
