@@ -19,7 +19,7 @@ This document sets out a proposal for research activities at Life Itself and a w
 
 > [!info] Update 2023-05-03
 > 
-> We have a more detailed overview of what research community and what it is about in the [[../blog/research-community-open-call-1-april-2023|notes and video from our first monthly open forum]].
+> We have a more detailed overview of what research community and what it is about in the [[research-community-open-call-1-april-2023|notes and video from our first monthly open forum]].
 
 # Summary
 
