@@ -5,7 +5,12 @@ authors:
  - valerie
  - marc-santolini
  - liu-bauer
---- 
+layout: fancy
+description: We are all conditioned by a perception of reality that we know to be inaccurate (the belief of separation) without being able to act on this knowledge. We may be collectively in a state of sideration, unable to respond to what the world is asking of us in terms of radical transformation to adequately adjust to it.
+image: /assets/images/spaces-in-hub-praxis-by-liubov.png
+---
+
+
 ##  Overview 
 
 We are all conditioned by a perception of reality that we know to be inaccurate (the belief of separation) without being able to act on this knowledge. We may be collectively in a state of sideration, unable to respond to what the world is asking of us in terms of radical transformation to adequately adjust to it. 
