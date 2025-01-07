@@ -18,12 +18,6 @@ const people = [
     imageUrl: "assets/site/team/liam-Cropped.jpeg"
   },
   {
-    name: "Nathen Fitchen",
-    role: "Communications",
-    bio: "Nathen Fitchen is a digital marketing expert who works specifically with social enterprises and non-profits creating a better future. He is the co-founder of Wildfeet Productions, a digital media group and is a full-time digital nomad. On his travels he has lived in many communities, co-living spaces and other alternative living situations. He is a trained permaculture designer and has a degree in Earth Sciences from University College London. He loves outdoor adventure sports, cooking, and caring for animals.",
-    imageUrl: "assets/site/team/Nathen-bio.png"
-  },
-  {
     name: "Lauren Wigmore",
     role: "Communications",
     bio: "Lauren is a writer and well-being practitioner. She has previous experience managing well-being and educational initiatives. She holds a Masters in Psychological Sciences. Prior to this she was an actress in London. She is a sunshine and inspiration seeking individual, who enjoys learning and connecting with new people and experiences. Plant medicine has a special place in her heart. She loves to laugh and she can often be found on the beach, dancing or doing yoga.",
@@ -92,18 +86,6 @@ const praxis = [
     bio: "Valerie is a passionate advocate for activating new ways of being in the world. She believes that to live fully we need to allow for a radically different relationship to the world and to ourselves. Her specific interest is in the application of new ways of being in community and seeks to understand the invisible evolutionary impulses that occur when we do things together. She is a Tenzo cook in the Zen tradition and through her books, programs and retreats brings the universal teachings of this tradition into community living. She is most well known for the design and development of the Onboarding Process which bridges 20 years of learning in Zen temples with conscious community experience. Her dedicated practice is to cultivate a posture of 'being witness' in her life.  She embodies the balance between deep commitment and spontaneous playfulness.",
     imageUrl: "assets/site/team/Valerie-profile.jpeg"
   },
-  {
-    name: "Liu Bauer",
-    role: "Scientist",
-    bio: "Liu is a mathematician, a theoretical physicist and data scientist of urban systems, with a PhD in theoretical physics. She worked before in universities of Germany, Netherlands, Spain (IFISC), Uruguay, Italy, France. She has been involved in European and international interdisciplinary projects working on implementing new frameworks for working with data. In research she is working with complex networks, studying processes on networks and applying the network theory in various urban issues. For this she has worked with Strelka Institute, Urban AI think tank, Correlaid NGO. She also developed the international scientists-schools network exploring the potential of scientific networks (NGO which she co-founded in 2017) and co-lead the data-volunteering initiative to help NGOs to preprocess their data. Recently she has been involved in several citizen science projects, which aim to bring together the ideas of democratizing decision making processes and participatory modeling. She works on the interface of physics, mathematics, urbanism and humanitarian action. Liu took part in the Starts.eu project together with Sony labs (Italy) and museums in Italy and Germany, which brought specific attention to the phenomenon of citizens' emotions in cities. Her projects are now mostly focused on finding new approaches and methodologies (participatory simulations, collective intelligence, geolocalized crowdsourcing, sharing circles) to work with citizens and cities.",
-    imageUrl: "assets/site/team/liu-bauer.svg"
-  },
-  {
-    name: "Marc Santolini",
-    role: "Practitioner-Researcher",
-    bio: "Marc Santolini, PhD in Statistical Physics from Ecole Normale Supérieure Paris, is a network scientist focused on innovation, collaboration, and learning within open and citizen science communities. With expertise in network science applied to various domains, including biology, medicine, and society, Marc explores the emergence of simplicity from complex interactions. As a research fellow at the Learning Planet Institute, he contributes to the development of large-scale open research communities. Marc is also a co-founder of the Just One Giant Lab NGO, promoting social and digital technologies for community-driven research. Additionally, he has a passion for music and explores how group rituals foster collective flow states, connecting philosophical and contemplative concepts like emergence and inter-being.",
-    imageUrl: "assets/site/team/marcsantolini.png"
-  },
 ]
 
 const contributors = [
@@ -128,7 +110,25 @@ const contributors = [
 ]
 
 const alumni = [
-    {
+  {
+    name: "Nathen Fitchen",
+    role: "Communications",
+    bio: "Nathen Fitchen is a digital marketing expert who works specifically with social enterprises and non-profits creating a better future. He is the co-founder of Wildfeet Productions, a digital media group and is a full-time digital nomad. On his travels he has lived in many communities, co-living spaces and other alternative living situations. He is a trained permaculture designer and has a degree in Earth Sciences from University College London. He loves outdoor adventure sports, cooking, and caring for animals.",
+    imageUrl: "assets/site/team/Nathen-bio.png"
+  },
+  {
+    name: "Liu Bauer",
+    role: "Scientist",
+    bio: "Liu is a mathematician, a theoretical physicist and data scientist of urban systems, with a PhD in theoretical physics. She worked before in universities of Germany, Netherlands, Spain (IFISC), Uruguay, Italy, France. She has been involved in European and international interdisciplinary projects working on implementing new frameworks for working with data. In research she is working with complex networks, studying processes on networks and applying the network theory in various urban issues. For this she has worked with Strelka Institute, Urban AI think tank, Correlaid NGO. She also developed the international scientists-schools network exploring the potential of scientific networks (NGO which she co-founded in 2017) and co-lead the data-volunteering initiative to help NGOs to preprocess their data. Recently she has been involved in several citizen science projects, which aim to bring together the ideas of democratizing decision making processes and participatory modeling. She works on the interface of physics, mathematics, urbanism and humanitarian action. Liu took part in the Starts.eu project together with Sony labs (Italy) and museums in Italy and Germany, which brought specific attention to the phenomenon of citizens' emotions in cities. Her projects are now mostly focused on finding new approaches and methodologies (participatory simulations, collective intelligence, geolocalized crowdsourcing, sharing circles) to work with citizens and cities.",
+    imageUrl: "assets/site/team/liu-bauer.svg"
+  },
+  {
+    name: "Marc Santolini",
+    role: "Practitioner-Researcher",
+    bio: "Marc Santolini, PhD in Statistical Physics from Ecole Normale Supérieure Paris, is a network scientist focused on innovation, collaboration, and learning within open and citizen science communities. With expertise in network science applied to various domains, including biology, medicine, and society, Marc explores the emergence of simplicity from complex interactions. As a research fellow at the Learning Planet Institute, he contributes to the development of large-scale open research communities. Marc is also a co-founder of the Just One Giant Lab NGO, promoting social and digital technologies for community-driven research. Additionally, he has a passion for music and explores how group rituals foster collective flow states, connecting philosophical and contemplative concepts like emergence and inter-being.",
+    imageUrl: "assets/site/team/marcsantolini.png"
+  },
+  {
     name: "Theo Cox",
     role: "Head of Life Itself Labs",
     bio: "Theo read Politics, Philosophy and Economics at the University of Oxford, and holds an MSc in Development Studies from the London School of Economics. His single greatest drive is to do the most good he can in the world, resulting in his spending probably a bit too much time ruminating on what it means to live a good life. When he’s not philosophising Theo is an avid martial artist, having competed in both western boxing and muay Thai and also regularly training in Brazilian jiujitsu. Despite his love of fighting he remains a committed pacifist in his day to day life, and is just as confused by this seeming contradiction as everyone else.",
@@ -159,7 +159,7 @@ const alumni = [
     imageUrl: "assets/site/team/Eilidh-bio.jpeg"
   },
   {
-    name: "Ninon Godefroy",
+      name: "Ninon Godefroy",
     role: "Co-founder of Life Itself",
     bio: "Ninon Godefroy grew up at La Cheraille, worked in renewable energy and education in Asia and Africa and studied public policy at the University of Oxford. She is a co-founder of Life Itself and is now working in education in Taiwan.",
     imageUrl: "assets/site/team/ninon-cropped.jpeg"
