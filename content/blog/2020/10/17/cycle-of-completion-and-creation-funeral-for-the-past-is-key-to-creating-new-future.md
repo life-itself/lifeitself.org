@@ -1,12 +1,12 @@
 ---
-title: "The Cycle of Completion and Creation<br/><small>Or, a funeral for the past is key to creating a new future</small>"
+title: "The Cycle of Completion and Creation: Or, a funeral for the past is key to creating a new future"
 created: 2020-10-17
-categories: 
+categories:
   - cultural-activism
   - ontological-politics
   - our-philosophy
   - requiem-for-a-passing-age
-authors: 
+authors:
   - sylvieshiweibarbier
 image: /assets/images/tombstone-modernity-02-scaled.jpg
 ---
@@ -19,9 +19,10 @@ Why was this? As we looked deeper, we sensed that we are creating from reaction 
 
 We called this the “cycle of completion and creation”. 
 
+
 ![](/assets/images/Cycle-of-Completion-and-Creation-1.png)
 
-Cycle of Completion and Creation
+## Cycle of Completion and Creation
 
 And it is especially hard to do in a culture that is neo-addicted and in denial of death. Where our rituals for mourning and completion are unused and unfamiliar.
 
