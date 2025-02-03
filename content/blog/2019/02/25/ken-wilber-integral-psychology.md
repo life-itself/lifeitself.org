@@ -1,6 +1,21 @@
+---
+title: Integral Psychology by Ken Wilber - Summary and Notes
+date: 2019-02-25
+authors:
+  - rufuspollock
+image: /assets/images/ken-wilber-quote.jpg
+tags:
+  - ken-wilber
+  - books
+categories:
+  - second-renaissance
+---
+
 # Integral Psychology by Ken Wilber
 
-**Cross-posted to [[ken-wilber-integral-psychology]]**
+Another fascinating and brilliant work. As seems common with Wilber, much of this is digested and repeated in later works so e.g. [[ken-wilber-integral-psychology|Integral Spirituality]] contains much of this distilled. At the same time, there is much greater detail here on many points and especially in the appendix where he collects examples of developmental pathways from Piaget to side by side. Note, though this is still before Wilber really seems to have really got into the multiple lines of development (e.g. Wilber-Coombs matrix and the psychograph) so the approach is still quite "stack-y" i.e. spiritual development stacks on top of (comes after) mind/cognitive development which comes on top of body development.
+
+# Summary
 
 * Most of originators of psychology were "mystics" in modern sense of term (believed in something beyond rational materialism). Gives example of Gustav Fechner
 * Great nest of being: e.g. matter, body, mind, spirit, soul. Key point that there is huge commonality across wisdom traditions on nested "stages" of development (and a good part of the lower part of this is borne out in modern materialist psychology)
@@ -49,8 +64,7 @@ NTS:
 
 ### On (Socio)Cultural Evolution
 
-Dedicated chatper on this (chapter 12).
-
+Dedicated chapter on this (chapter 12).
 
 # Excerpts
 
@@ -274,9 +288,11 @@ Wilber cites several examples and esp big props to Varela who Wilber is clearly 
 > For an integral psychology, this also means that a person’s deepest drive—the major drive of which all others are derivative—is the drive to actualize the entire Great Nest through the vehicle of one’s own being, so that one becomes, in full realization, a vehicle of Spirit shining radiantly into the world, as the entire world.
 
 
-===
+---
 
-# ASIDE: TODO post in a separate discussion thread
+# Appendix (added later)
+
+Example of relevance of Wilber to modern woke-ist debates.
 
 https://www.youtube.com/watch?v=xILBpDOqD-A
 
