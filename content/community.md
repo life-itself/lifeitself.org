@@ -61,6 +61,26 @@ Want to get move actively involved, see [[get-involved|our Get Involved page]]
 
 Got a specific idea for a community initiative? [[contact|Get in touch!]]
 
+## Ground Rules
+
+The following invitations are shared to make this space a collaborative and accessible place for all. For the most part, these are simple common sense. If you show up with the purpose of collaboration, connection, education, and contribution the rest will simply occur organically. 
+
+1. Respect each other: Treat other members of the group with respect and kindness. Avoid using abusive or derogatory language towards anyone.
+2. Keep it clean: Refrain from sharing any inappropriate content like sexually explicit messages or images, vulgar jokes, hate speech, etc.
+3. Respect others boundaries: Communicating your boundaries and being aware of others boundaries will help maintain a good nature within the group, while making everyone feel safe. For example, if you want to reach out privately to someone in the group, ask for their permission publicly first.
+4. Self-promotion, but not too much: We’re excited to hear what you are up to if it makes sense to share it in the group. However, remember this is a space for everyone, so keep self-promotion to a reasonable frequency. 
+5. Confidentiality: Do not share any personal or sensitive information about other members of the group without their consent.
+6. Be responsible: Take responsibility for your actions and the messages you share in the group. If you notice any violation of the guidelines, report it to the group admin immediately.
+7. Listen to others and respect each other's opinions: Pay attention to what others are saying and show interest in their opinions. Do not interrupt or talk over others, and be open to hearing different points of view even if you disagree.
+8. Be courteous: Say "please" and "thank you" when appropriate, and be polite in your interactions with others.
+9. Avoid personal attacks: Do not attack or insult other group members based on their race, gender, religion, or any other personal characteristic. Disagreements should be handled respectfully and without attacking the person.
+10. Stay on topic: Keep the conversations on-topic and relevant to the purpose of the group. Avoid sharing unrelated messages or spamming the group with unnecessary messages.
+11. Be concise: Keep the conversation focused on the topic at hand and avoid going off on tangents. This helps to keep the discussion productive and respectful.
+12. Share helpful content: Share content that is helpful or interesting to the group members. This could be news articles, memes, jokes, or anything else that adds value to the group.
+13. Be active: Participate in the group regularly by sharing your thoughts and ideas. This helps to keep the conversation lively and engaging.
+
+By following these ground rules, we can create a safe and respectful community where everyone can freely express their opinions and ideas without any fear of judgment or harassment.
+
 ## Feedback
 
 Have some feedback or ideas for improvement? Drop us a message in the chat or contact hello@lifeitself.org and help the community thrive!
