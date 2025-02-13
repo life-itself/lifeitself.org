@@ -23,7 +23,6 @@ const userConfig = {
   socialLinks: {
     twitter: "https://twitter.com/forlifeitself",
     instagram: "https://www.instagram.com/forlifeitself/",
-    linkedin: "https://www.linkedin.com/company/life-itself/",
     whatsapp: "https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA",
   },
   theme: { default: "" },
