@@ -16,13 +16,14 @@ const userConfig = {
     { href: "/initiatives", name: "Initiatives"},
     { href: "/ecosystem", name: "Ecosystem" },
     { href: "https://news.lifeitself.org/", name: "Blog"},
-    { href: "https://news.lifeitself.org/s/newsletter", name: "Newsletter"}
+    { href: "https://news.lifeitself.org/s/newsletter", name: "Newsletter"},
     { href: "https://news.lifeitself.org/s/li-podcast", name: "Podcast" },
     { href: "/contact", name: "Contact"}
   ],
   socialLinks: {
     twitter: "https://twitter.com/forlifeitself",
     instagram: "https://www.instagram.com/forlifeitself/",
+    linkedin: "https://www.linkedin.com/company/life-itself/",
     whatsapp: "https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA",
   },
   theme: { default: "" },
