@@ -12,9 +12,8 @@ const userConfig = {
   navLinks: [
     { href: "/about", name: "About"},
     { href: "/people", name: "People"},
-    { href: "/upcoming-residencies-gatherings", name: "Residencies"},
+    { href: "/residencies", name: "Residencies"},
     { href: "/initiatives", name: "Initiatives"},
-    { href: "/ecosystem", name: "Ecosystem" },
     { href: "https://news.lifeitself.org/", name: "Blog"},
     { href: "https://news.lifeitself.org/s/newsletter", name: "Newsletter"},
     { href: "https://news.lifeitself.org/s/li-podcast", name: "Podcast" },
