@@ -90,7 +90,7 @@ We are a **research collective** exploring paths to a [second renaissance](https
 
 ## Research Approach and Outputs
 
-Our research approach is set out in detail on the Wiki [here](https://wiki.secondrenaissance.net/wiki/Potential_research_agenda) but in short we're interested in (among other things)
+Our research approach is set out in detail on the Wiki [here](https://wiki.secondrenaissance.net/wiki/Second_Renaissance_Research_approach) but in short we're interested in (among other things)
 
 - Research supporting historical narratives and theories of change relating to the Second Renaissance [White Papers](https://secondrenaissance.net/paper), potentially for publication on blogs, newsletters, the [forum](https://forum.secondrenaissance.net/) or in academic publications.
 - Research generating accessible summaries of key ideas for sharing in the [Wiki](https://wiki.secondrenaissance.net/wiki/Second_Renaissance_wiki) and Second Renaissance [newsletter](https://news.secondrenaissance.net/)
