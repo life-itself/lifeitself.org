@@ -28,14 +28,17 @@ Please complete as many of the following steps as you can on or before your Welc
 If you get stuck please contact your onboarder and let them know. 
 
 1. **Life Itself email**: Login in to your Life Itself email account and check it. You should have received an invitation to your personal email with details of how to sign in to your Life Itself email account and set your password. Sign in and check your account for any email you may have already received.
-2. **Key systems**: Setup your accounts on [the key systems we use](#key-systems). **Do this before the next step!**
-3. **Phonebook**: Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email. Then, **notify the Onboarder that you have added accounts in team phonebook** so that they can add you to relevant systems.
+2. **Key systems**: Setup your accounts on the key systems we use. **Do this before the next step!** When you set up systems, try to pick usernames that will be easy for others to remember. Using your first and last name is ideal.
+   * Gravatar -- https://gravatar.com. **Do this FIRST so your Gravatar is used on the other accounts you create.** To be able to create a Gravatar, you have to create a WordPress account first. You can then create a Gravatar so that your profile picture will show up automatically on your profile on other systems. 
+     * When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts. [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
+   * GitHub -- https://github.com. This may seem a bit geeky but bear with us 😉 At Life Itself we use GitHub for a variety of things from collaborating on projects to deploying our website.
+4. **Phonebook**: Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email. Then, **notify the Onboarder that you have added accounts in team phonebook** so that they can add you to relevant systems.
 
 These additional items can be done out of order and at any time (even before you have your email etc)
 
 - **Background on working with us:** Read about [[working-with-us|Working with Us]] and [[getting-stuff-done|Getting Stuff Done]]
 - **Laptop setup**: we recommend installing the following
-  - Google or Opera browser. We recommend Opera as it has [picture in picture support for video calls](https://www.opera.com/features/video-pop-out) which is very in useful
+  - Google or Arc browser.
   - [Obsidian](https://obsidian.md) for markdown editing
   - [Github desktop](https://desktop.github.com)
 - **Markdown**: read the [Markdown tutorial](https://datopian.com/playbook/markdown/) -- Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools.
@@ -43,28 +46,16 @@ These additional items can be done out of order and at any time (even before you
 [phonebook]: https://docs.google.com/forms/d/e/1FAIpQLSfgK-NrAkplGwO5OIPKfO3Gjyh0332aJaL0zwobk2qc4-lCLA/viewform?usp=sf_link
 [laptop]: https://playbook.datopian.com/laptop-setup/
 
-### Key systems
-
-When you set up systems, try to pick usernames that will be easy for others to remember. Using your first and last name is ideal.
-
-* Gravatar -- https://gravatar.com. **You need to do this before any of the steps below so your Gravatar is used on the other accounts you create.** 
-  * To be able to create a Gravatar, you have to create a WordPress account first. 
-  * You can then create a Gravatar so that your profile picture will show up automatically on your profile on other systems. 
-  * When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts.
-  * [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
-* GitHub -- https://github.com. At Life Itself we use GitHub for collaborating on projects and deploying our website. 
-
----
-
 ## First Steps
 
 ### GitHub
 
-We use GitHub https://github.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
+✋ It's fine if you are unfamiliar with GitHub -- you only need the basics for now. 🙂
+
+We use GitHub https://github.com/ for a lot of project management as well as managing some of our websites. We want to introduce you to it here briefly because we will use its issue tracker functionality.
 
 The issue tracker is space for storing and sharing task lists - you can think of it as an online notebook full of to-do lists. You can create an issue within the issue tracker to outline all the subtasks associated with something you're working on. Updating the issue records your progress and keeps your team up-to-date.
 
-It's fine if you are unfamiliar with GitHub -- you only need the basics for now.
 
 ### Create an Onboarding Issue
 
@@ -208,31 +199,9 @@ We use Gmail.
 
 We use markdown documents in Github or Google Drive for all internal documents.
 
-### Standups
-
-Standups are part of the [agile methodology][https://playbook.datopian.com/agile/]. Agile is a project management tool, and standups are a way of outlining what you intend to work on over the next 24 hours. Their purpose is to:
-
-* Keep the team in sync
-* Identify blockers 
-* Deal with issues arising (e.g. need to reprioritize in the face of an arising issue or change in estimate)
-
-Traditionally, standups are done verbally "in person" (in a live team meeting e.g. on video). Life Itself holds standup every weekday at 17:15 CET. Your Onboarder will invite you to the standup event on Google calendar. If you can't attend a standup call, you should post your standup in a written form in our Whatsapp group so that your team members still get an update. The form of standup, either written or verbal, is as follows:
-
-* Plan (What is your plan for the next 24 hours?)
-* Recap (What did you accomplish during the last 24 hours?)
-* Blockers (Is there something getting in the way of you completing your tasks)
-* Availability (What is your availability for the next 24 hours?)
-
-```md
-* Last 24h: ...
-* Next 24h: ...
-* Blockers: ...
-* Availability: ...
-```
-
 ### Meetings
 
-Make sure to familiarise yourself with our [meeting protocol](https://playbook.datopian.com/meetings/). 
+Make sure to familiarise yourself with our [meeting protocol](/tao/meetings). 
 
 ### Markdown
 
@@ -242,7 +211,7 @@ If you are new to Markdown, see the [Markdown tutorial](https://playbook.datopia
 
 ### Passwords and Logins
 
-Passwords and logins for common services can be found in a private google sheet. Check with your onboarder for access.
+Passwords and logins for common services can be found in a private location. Check with your onboarder for access.
 
 ---
 
