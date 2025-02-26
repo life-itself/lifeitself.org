@@ -1,6 +1,7 @@
 ---
 title: Integral Psychology by Ken Wilber - Summary and Notes
 date: 2019-02-25
+created: 2019-02-25
 authors:
   - rufuspollock
 image: /assets/images/ken-wilber-quote.jpg
@@ -20,27 +21,29 @@ Another fascinating and brilliant work. As seems common with Wilber, much of thi
 * Most of originators of psychology were "mystics" in modern sense of term (believed in something beyond rational materialism). Gives example of Gustav Fechner
 * Great nest of being: e.g. matter, body, mind, spirit, soul. Key point that there is huge commonality across wisdom traditions on nested "stages" of development (and a good part of the lower part of this is borne out in modern materialist psychology)
 * Really intriguing point for me that a) "peak" experience is about where we reach beyond our current stage in a major way b) some individuals turns those peaks into persistent experience and that "pulls them up" c) we are "collectively" (i.e. on average) at a given stage which for humankind at present is around the formal operational stage (or "mind")
-  * This really made me think. Imagine you were around as homo sapiens developed. At one point we were mostly at the body level and only a few individuals made partial leaps into "mind". Then as that spread (probably genetically and culturally) at some point the majority were at that level. And as infants were brought up with talking and concepts etc they were enculturated into that realm. And that's what will happen next. We will enculturate into that next level up (spirit).
 
-The key ideas
+> [!Aside]
+> 
+> This last point really made me think. Imagine you were around as homo sapiens developed. At one point we were mostly at the body level and only a few individuals made partial leaps into "mind". Then as that spread (probably genetically and culturally) at some point the majority were at that level. And as infants were brought up with talking and concepts etc they were enculturated into that realm. And that's what will happen next. We will enculturate into that next level up (spirit).
+
+### The key ideas
 
 * Great chain of being (aka the Great Nest): matter => body => mind => soul => spirit
   * An extension of the perennial philosophy
   * Holoarchic development
   * This is a development of interiors
 * Interior got neglected the discarded in modernity. 4 quadrants. A focus on the right quadrants. (though the very distinction of quadrants is thanks to modernity and very valuable)
-* 4 Deficiencies of the Great Nest ^0dd27e
-  1. No quadrants (or merges them - leftwards, in contrast to rightwards of modernity). That is it focused on interior states and ignored impact of that 
-  2. Little differentiation of the mind stages (like we have with modern developmental theory a la Piaget)
-  3. Little understanding of psychopathologies that can occur ad impede development (esp at fulcra between stages)
-* What do we need to to make up for this ...
-  1. Incorporate the other quadrants: e.g. understanding how cultural context frames mind, the neuronal correlates and brain function associated to interior experiences (and how these impact us)
-  2. Incorporate more detailed picture of the mind
-  3. ...
+* 4 Deficiencies of the Great Nest
+  - No quadrants (or merges them - leftwards, in contrast to rightwards of modernity). That is it focused on interior states and ignored impact of that 
+  - Little differentiation of the mind stages (like we have with modern developmental theory a la Piaget)
+  - Little understanding of psychopathologies that can occur ad impede development (esp at fulcra between stages)
+* What do we need to make up for this ...
+  - Incorporate the other quadrants: e.g. understanding how cultural context frames mind, the neuronal correlates and brain function associated to interior experiences (and how these impact us)
+  - Incorporate more detailed picture of the mind
 
-Sumarizing the model
+### Summarizing the model
 
-* 4 quadrants. Often reduced by merging the right hand side into the "big three": the true (RHS), the good (LL - i.e. interior we e.g. culture), the beautiful (UR - interior, singular e.g. the subjective)
+* Four quadrants. Often reduced by merging the right hand side into the "big three": the true (RHS), the good (LL - i.e. interior we e.g. culture), the beautiful (UR - interior, singular e.g. the subjective)
 * Great Chain aka Great Nest provides the holarchical (transcend and include) model of development for the interior
   * Combines all the knowledge from modern developmental science
   * With the empirical spirituality of the great traditions for the transprersonal / transrational / transcendental realms (soul, spirit)
@@ -52,7 +55,7 @@ Sumarizing the model
   * "rational" (formal operational) 11y onwards
   * integral-aperspectival ("vision-logic") adulthood, if then
 
-NTS:
+Note to self:
 
 * What is the theory of culture, of politics that comes out of this. Seems, in some ways, even richer. Integral psych is focused on UL (interior personal) though with a rich understanding of how the other quadrants impact and connect with that. What is an integral sociology?
 
