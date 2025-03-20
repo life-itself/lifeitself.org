@@ -24,7 +24,7 @@ Welcome to our digital village! Just like a traditional village, we are a divers
 
 The Life Itself community chat is a space on WhatsApp for members of the Life Itself community to gather online.
 
-Join 300+ other members in seeding the second renaissance! 🎉
+Join 400+ other members in seeding the second renaissance! 🎉
 
 👉 [Join our community chat here](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA) 
 
