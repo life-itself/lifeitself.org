@@ -10,7 +10,7 @@ export function Hero() {
             We are a collective of artists, academics and activists committed to rigorous inquiry, practical action, inner development, and conscious community.
           </h1>
           <h2 className="mx-auto mt-3 max-w-md text-base text-gray-500 text-xl xl:text-2xl md:mt-5 md:max-w-3xl">
-            We offer a <span className="font-bold">gathering place</span> and <span className="font-bold">incubator</span> for people and projects committed to pioneering a radically wiser world.
+            We offer a <span className="font-bold">gathering place</span> and <span className="font-bold">incubator</span> for people and projects committed to pioneering a radically wiser world and responding to the metacrisis.
             <br /><br />
             Find out about our <Link href="residencies" className="underline">upcoming residencies</Link>, join the <Link href="community" className="underline">online community</Link> or subscribe to stay up to date with our latest news.
           </h2>
