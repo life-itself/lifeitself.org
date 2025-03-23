@@ -27,4 +27,5 @@ We see many expressions of contemplative pursuits such as mindfulness, embodied 
 - [[../institute/contemplative-activism|Contemplative Activism Page]]
 - [[../blog/2020/06/11/contemplative-activism-a-primer|A Primer to Contemplative Activism]]
 - [Letting Go of Being Enlightened](https://artearthtech.com/2020/03/25/letting-go-of-being-enlightened/)
+- [Contemplative activism? My journey by Carmen Zurl](https://substack.com/home/post/p-147160717)
 
