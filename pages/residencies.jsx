@@ -61,7 +61,7 @@ export default function Residencies({ currentAndFutureResidencies, pastResidenci
         <div className="mt-10 flex items-center justify-center gap-x-6 my-10">
         <p className="text-center mt-8">
           <Link
-            href="/hubs/bergerac"
+            href="https://praxishub.substack.com/p/about-the-hub"
             className="rounded-md bg-secondary px-4 py-2 text-sm font-medium text-primary shadow-sm hover:bg-secondary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-secondary no-underline"
           >
             Learn More About The Hub&nbsp;<span aria-hidden="true">&rarr;</span>
