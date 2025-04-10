@@ -27,13 +27,14 @@ It plays an important role in uncovering the underlying meanings and influences 
 
 ## Cultural Evolution: A New Discipline is Born Series
 
-The best way to learn is through our Podcast Series. Through 4 episodes Rufus and Joseph take us on a journey to better understand what makes humans successful, how culture both develops and impacts us on individual and societal levels, the fundamental differences between those who are WEIRD and those who aren't, and how family, religion and psychological factors have all played a significant role in developing and influencing cultural development. 
+The best way to learn is through our Podcast Series. Through 4 episodes Harvard Professor Joseph Henrich takes us on a journey to better understand what makes humans successful, how culture both develops and impacts us on individual and societal levels, the fundamental differences between those who are WEIRD and those who aren't, and how family, religion and psychological factors have all played a significant role in developing and influencing cultural development. 
 
-They dive into a wide range of subjects, including the concept of "cultural dark matter," the influence of religion and rituals on society, the role of trust and cooperation, the potential for tracking cultural innovation, the challenges of balancing individualism and collectivism, the potential for cross-fertilization among different intentional communities and more!
+This is a deep dive into a wide range of subjects, including the concept of "cultural dark matter," the influence of religion and rituals on society, the role of trust and cooperation, the potential for tracking cultural innovation, the challenges of balancing individualism and collectivism, the potential for cross-fertilization among different intentional communities and more!
 
 We are left contemplating where do we go from here, as we discover the potential for this research area to gain even deeper traction in supporting the development of a wiser, weller world.
 
 ## Listen to all the episodes here
+
 - [Episode 1 Joseph Henrich and the Emergence of a (Rigorous) Culturology](https://lifeitself.org/podcast/joseph-henrich-and-the-emergence-of-culturology)
 
 - [Episode 2 Joseph Henrich on Homo Sapiens: The Cultural Species](https://lifeitself.org/podcast/homo-sapiens-the-cultural-species)
@@ -60,15 +61,16 @@ https://youtu.be/bcTeQOYI97U?si=wUMC9spHf4t37boR
 
 https://youtu.be/Ye_9Q-VpG3s?si=SkwygFM-UK1LJO1v
 
-## About Joseph
+## About Professor Henrich
 
-Joe Henrich is a [Professor of Human Evolutionary Biology at Harvard University](https://henrich.fas.harvard.edu/). He is author of several books, most recently 'The Weirdest People in the World' and 'The Secret of Our Success'. His research focuses on evolutionary approaches to psychology, decision-making and culture, and includes topics related to cultural learning, cultural evolution, culture-gene coevolution, human sociality, prestige, leadership, large-scale cooperation, religion and the emergence of complex human institutions. 
+Professor Joe Henrich is a [Professor of Human Evolutionary Biology at Harvard University](https://henrich.fas.harvard.edu/). He is author of several books, most recently 'The Weirdest People in the World' and 'The Secret of Our Success'. His research focuses on evolutionary approaches to psychology, decision-making and culture, and includes topics related to cultural learning, cultural evolution, culture-gene coevolution, human sociality, prestige, leadership, large-scale cooperation, religion and the emergence of complex human institutions. 
 
-## About Rufus
+## About Rufus (the interviewer)
 
 Rufus Pollock is an entrepreneur, activist and author. He has founded several for-profit and nonprofit initiatives including Life Itself, Open Knowledge Foundation, and Datopian. His book Open Revolution is about making a radically freer and fairer information age. Previously he has been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth and Ashoka Fellow. A recognized global expert on the information society, he has worked with G7 governments, IGOs like the UN, Fortune 500s as well as many civil society organizations. He holds a PhD in Economics and a double first in Mathematics from the University of Cambridge. Find out more about his work on his website: [rufuspollock.com](https://rufuspollock.com/)
 
 ## Go Deeper
+
 #### Suggested Reading
 
 The WEIRDest People in the World - Professor Joseph Henrich, Korey Jackson, et al.
