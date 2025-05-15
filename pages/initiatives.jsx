@@ -14,9 +14,9 @@ export default function Initiatives({ activeProjects, inactiveProjects }) {
           alone works, and others are ongoing explorations. All are designed to create a wiser, weller world.
           Our projects fall under two broad themes:</p>
 
-        <h3>Pioneering Community Living</h3>
+        <h3>Pioneering Conscious Community Living</h3>
 
-        <p>At the core of what we do is the thesis that community living is key to embodying true transformation
+        <p>At the core of what we do is the thesis that <a href="https://lifeitself.org/conscious-coliving">conscious community living</a> is key to embodying true transformation
           of ourselves and society.</p>
 
         <p>Why is community living so important? Because we need to combine inner transformation and outer development.
