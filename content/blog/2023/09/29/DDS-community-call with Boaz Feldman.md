@@ -1,5 +1,5 @@
 ---
-title: "Deliberately Developmental Spaces: A research presentation with Boaz Feldman, Rufus Pollock, Catherine Tran & Matthew McCarthy"
+title: "Deliberately Developmental Spaces: A research presentation with Boaz Feldman, Rufus Pollock, Catherine Tran and Matthew McCarthy"
 created: 2023-10-27
 authors:
   - matthew-mccarthy
