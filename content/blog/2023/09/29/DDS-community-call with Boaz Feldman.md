@@ -1,5 +1,5 @@
 ---
-title: "Community Call: Deliberately Developmental Spaces research presentation with Boaz Feldman"
+title: "Deliberately Developmental Spaces: A research presentation with Boaz Feldman, Rufus Pollock, Catherine Tran & Matthew McCarthy"
 created: 2023-10-27
 authors:
   - matthew-mccarthy
