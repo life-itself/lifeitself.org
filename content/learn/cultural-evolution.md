@@ -7,13 +7,12 @@ authors:
 image: /assets/images/culturology-series-banner.jpg
 ---
 
-> Through understanding what has and what continues to shape our culture and how culture can evolve we can consciously contribute to creating wiser, weller ones.
+> Understanding how culture has and can evolve helps us see how we can consciously cultivate new cultures and contribute to a wiser, weller world.
 
-Cultural Evolution is a new science that provides greater understanding of our collective development and potential. This is essential context for us to take aligned action that works to cultivate healthier societies and the paradigm shift we need. 
-
+Cultural Evolution is a new science that provides greater understanding of our collective development and potential. This is essential context for us to take aligned action that works to cultivate healthier societies and the [[/learn/second-renaissance|paradigm shift we need]].
 **By the end of this page you will know:**
 
-- What is cultural evolution and culturology
+- What is cultural evolution and "culturology"
 - The factors that have and continue to shape our cultures and their success or failure
 - How WEIRD (western educated industrialized rich and democratice) and non-WEIRD cultures differ and what we can learn from both
 - Where we can go to next
@@ -21,7 +20,9 @@ Cultural Evolution is a new science that provides greater understanding of our c
 
 ## What is Cultural Evolution and "Culturology"?
 
-We use ther term "culturology" for interdisciplinary field of cultural evolution and the broader study of culture and its change over time. It encompasses the examination of how culture shapes and influences human behavior, beliefs, values, norms, practices, and expressions. Through the analysis of different forms of cultural production, such as literature, art, music, language, rituals, and the interdisciplinary areas such as history, politics, economics, technology, psychology, anthropology and sociology, culturology research supports the understanding of the development, and potential trajectory and impact of culture globally, locally and individually.
+We use the term "culturology" for interdisciplinary field of cultural evolution and the broader study of culture and its change over time. This emerging field builds on existing fields such as anthropology, psychology economics, sociology and history.
+
+It encompasses the examination of how culture shapes and influences human behavior, beliefs, values, norms, practices, and expressions. Through the analysis of different forms of cultural production, such as literature, art, music, language, rituals, this research supports the understanding of the development, and potential trajectory and impact of culture globally, locally and individually.
 
 It plays an important role in uncovering the underlying meanings and influences that shape human experiences and societies, the development and evolution of culture, societies, human behavior and innovation and provides a deeper appreciation and comprehension of the diverse cultures that exist in the world.
 
