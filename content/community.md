@@ -9,7 +9,7 @@ created: 2023-08-30
 
 _A community for people who recognise the meta-crisis we face, know there is a possibility of a new paradigm and are ready to do something about it!_
 
-👉 [Join our community chat on WhatsApp &raquo;](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA) 
+👉 [Join our community chat on WhatsApp &raquo;](https://LinkShield.co/54) 
 
 ## What is the Life Itself Community?
 
@@ -26,7 +26,7 @@ The Life Itself community chat is a space on WhatsApp for members of the Life It
 
 Join 400+ other members in seeding the second renaissance! 🎉
 
-👉 [Join our community chat here](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA) 
+👉 [Join our community chat here](https://LinkShield.co/54) 
 
 ## Upcoming community events
 

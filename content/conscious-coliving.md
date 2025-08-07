@@ -37,7 +37,7 @@ This is for you if you are seeking hands-on guidance in conscious coliving, whet
 
 Join 100+ other curious conscious colivers to learn, share and connect in a simple, easygoing way. No thrills, just a chat channel! 
 
-[Join Now](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw)
+[Join Now](https://LinkShield.co/55)
 
 ## Why is Conscious Coliving Important?
 
