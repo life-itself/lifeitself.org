@@ -8,9 +8,9 @@ categories:
   - life-itself-research
   - ecosystem-mapping
 image: /assets/images/contemplative-approaches-to-social-transformation-20230623.png
-description: We are pleased to publish "Emergent Power", a report on key challenges and capacities for change agents of a Second Renaissance.
+description: This project seeks to map the emerging ecosystem of actors who are applying contemplative insights and practices in pursuit of transformative social change and who include cultural and/or systems perspectives in their efforts.
 ---
-*Over the past six months, Jamie Bristow and I have been collaborating with Karen Grossman, Executive Director at the Garrison Institute, to develop a proposal for "mapping the ecosystem of contemplative approaches to transformative social change". This work builds on our own interest and experience in ecosystem mapping for inner-led social change, as well as Garrison’s long-standing expertise in contemplative-led approaches. We are sharing this now in order to invite interest and potential engagement from others who might wish to be involved. It builds on discussions we have been having with Diana Rose and colleagues at Garrison since 2021, when we launched [Life Itself’s initial ecosystem mapping of paradigmatic, integrated, pragmatic (PIP) change-makers](https://ecosystem.lifeitself.org/).*
+*Over the past six months, Rufus Pollock and Jamie Bristow at Life Itself have been collaborating with Karen Grossman, Executive Director at the Garrison Institute, to develop a proposal for "mapping the ecosystem of contemplative approaches to transformative social change". This work builds on our own interest and experience in ecosystem mapping for inner-led social change, as well as Garrison’s long-standing expertise in contemplative-led approaches. We are sharing this now in order to invite interest and potential engagement from others who might wish to be involved. It builds on discussions we have been having with Diana Rose and colleagues at Garrison since 2021, when we launched [Life Itself’s initial ecosystem mapping of paradigmatic, integrated, pragmatic (PIP) change-makers](https://ecosystem.lifeitself.org/).*
 
 **UPDATE: Dec 2023** whilst this proposal remains unfunded we have been working together to talk to potential partners as well as to develop a prototype mapping.
 
@@ -25,7 +25,7 @@ This project seeks to map the emerging ecosystem of actors who are applying cont
 We will provide an overview of the organizations, programs and landmark publications in the space in order to develop better understanding of the field and provide a powerful resource for change agents and funders to build networks, find collaborators, and develop more informed strategy.
 
 [^1]:  e.g. mindsets worldviews, values that underpin our collective meaning making and experience of the world
-[^2]:  e.g. institutions, policies, laws etc	
+[^2]:  e.g. institutions, policies, laws etc. As the astute reader will note, this terminology derives from the Integral quadrants.
 
 
 ### Background
