@@ -96,7 +96,13 @@ Our research approach is set out in detail on the Wiki [here](https://wiki.secon
 - Research generating accessible summaries of key ideas for sharing in the [Wiki](https://wiki.secondrenaissance.net/wiki/Second_Renaissance_wiki) and Second Renaissance [newsletter](https://news.secondrenaissance.net/)
 - Research involved in [mapping the ecosystem](https://secondrenaissance.net/ecosystem)
 
-Recordings of recent sessions and some written outputs can be found [here](https://news.lifeitself.org/s/research).
+Recordings of recent sessions and the latest written outputs can be found [here](https://lifeitselfresearch.substack.com).
+
+Recent research outputs include:
+
+- [Second Renaissance No 1: What is a second renaissance and why is it relevant in this moment of escalating crisis (2024)](https://secondrenaissance.net/paper)
+- [Second Renaissance No 2: How paradigmatic change and a second renaissance can come about (2024)](https://secondrenaissance.net/paper)
+- [Wiser Technology: Technology and a Second Renaissance Part I & II (2024)](https://news.secondrenaissance.net/p/wiser-technology-technology-and-a)
 
 Some earlier research outputs include:
 

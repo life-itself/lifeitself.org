@@ -42,7 +42,7 @@ _Note: Salesforce will be used frequently as an example because it of its promin
 
 ## The Challenge
 
-These companies operate within a digital sector that is highly competitive. Furthermore, this sector is itself located with a wider economy and society culturally oriented towards competition, ambition and success.[1](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fn:success) Pressure, stress and anxiety are omnipresent – exemplified in a mentality of “win or die trying” and “kill or be killed”. For example, the title of Intel CEO Andy Grove memoir was “Only the Paranoid Survive”.
+These companies operate within a digital sector that is highly competitive. Furthermore, this sector is itself located with a wider economy and society culturally oriented towards competition, ambition and success.[^1] Pressure, stress and anxiety are omnipresent – exemplified in a mentality of “win or die trying” and “kill or be killed”. For example, the title of Intel CEO Andy Grove memoir was “Only the Paranoid Survive”.
 
 This can make it hard to develop and sustain a mindful culture and way of being. Adoption of mindful practices may be shallow – framed within a mindset of “return on investment” where mindfulness is used to make “fitter, happier, more productive” employees.
 
@@ -60,7 +60,7 @@ Digital competition though _is_ like that. It is both exciting and stressful. 
 
 However, unlike a traditional casino, the winners cannot leave but are forced to keep betting time after time. As a result, the CEOs – and staff – of these enterprises face a situation much like the legendary King Damocles. Damocles was rich and powerful but his life was full of anxiety and suffering. This was because he lived with the constant threat of usurption and violent death – whether through assassination or war. One day, a guest remarked enviously on his royal position so that night at supper Damocles placed the guest at dinner underneath a sword suspended by a single thread. “This”, King Damocles said to the guest, “Is what my whole life is really like”.
 
-Obviously, modern CEOs do not face actual death like King Damocles. However, they have to live with the ever present risk of being supplanted by competitors inside or outside their firms. Because of its winner takes all structure, digital competition is particularly tough, ruthless and stressful – especially at the high-end.[2](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fn:paranoid)
+Obviously, modern CEOs do not face actual death like King Damocles. However, they have to live with the ever present risk of being supplanted by competitors inside or outside their firms. Because of its winner takes all structure, digital competition is particularly tough, ruthless and stressful – especially at the high-end.[^2]
 
 ## The Question: can digital companies create a mindful, well culture and thrive as businesses?
 
@@ -84,7 +84,7 @@ However, it does mean the immediate answer to the first question is a negative:
 
 In the current digital economy, it is next to impossible. The dog-eat-dog world, the pressure from investors to maintain inflated valuations, the “war for talent”, the general cultural focus on the “next big thing”, “getting rich” and “techno-solutionism” all serve to create an environment that is anti-mindful in key ways: stressed, obsessed with achievement and money, ego-oriented, and short-term.
 
-These pressures are not simply cultural, they flow from the basic structures of the current digital economy. For example, the winner-takes-all dynamic makes it necessary to raise large sums from investors and to target breakneck growth (“grow or die”).[3](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fn:why-breakneck)
+These pressures are not simply cultural, they flow from the basic structures of the current digital economy. For example, the winner-takes-all dynamic makes it necessary to raise large sums from investors and to target breakneck growth (“grow or die”).[^3]
 
 We can see these pressures and their results concretely today.
 
@@ -146,9 +146,9 @@ _Excerpt From: Thich Nhat Hanh. “The Art of Power” Chapter Four_
 
 * * *
 
-1. It is interesting that Salesforce’s community platform has the name “success” and is where links to mindfulness sessions at dreamforce lead you [https://success.salesforce.com/](https://success.salesforce.com/) - [https://www.salesforce.com/blog/2016/09/compassion-mindfulness-are-changing-dreamforce.html](https://www.salesforce.com/blog/2016/09/compassion-mindfulness-are-changing-dreamforce.html) (list of mindfulness sessions at dreamforce). [\[return\]](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fnref:success)
-2. Returning to Andy Grove the famous long-term CEO of Intel through its growth years. His memoir cum business advice manual: “Only the Paranoid Survive” is a title we can imagine King Damocles choosing if he had ever written a book on Kingship in Ancient Greece. [\[return\]](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fnref:paranoid)
-3. To explain the logic in more detail: if there is a sole (or very few) winners, then competition is a tournament with a sole winner. Winning is largely a function of effort and luck and how fast you move. Effort and speed are both largely a function of the resources you have to spend whether thoese resources are used to hire talent, engage in marketing or make acquisitions. [\[return\]](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fnref:why-breakneck)
+[^1: It is interesting that Salesforce’s community platform has the name “success” and is where links to mindfulness sessions at dreamforce lead you [https://success.salesforce.com/](https://success.salesforce.com/) - [https://www.salesforce.com/blog/2016/09/compassion-mindfulness-are-changing-dreamforce.html](https://www.salesforce.com/blog/2016/09/compassion-mindfulness-are-changing-dreamforce.html) (list of mindfulness sessions at dreamforce). [\[return\]](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fnref:success)
+[^2]: Returning to Andy Grove the famous long-term CEO of Intel through its growth years. His memoir cum business advice manual: “Only the Paranoid Survive” is a title we can imagine King Damocles choosing if he had ever written a book on Kingship in Ancient Greece. [\[return\]](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fnref:paranoid)
+[^3]: To explain the logic in more detail: if there is a sole (or very few) winners, then competition is a tournament with a sole winner. Winning is largely a function of effort and luck and how fast you move. Effort and speed are both largely a function of the resources you have to spend whether thoese resources are used to hire talent, engage in marketing or make acquisitions. [\[return\]](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fnref:why-breakneck)
 
 * * *
 

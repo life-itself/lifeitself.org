@@ -14,9 +14,10 @@ const userConfig = {
     { href: "/people", name: "People"},
     { href: "/residencies", name: "Residencies"},
     { href: "/initiatives", name: "Initiatives"},
+    { href: "https://studio.lifeitself.org", name: "Studio"},
     { href: "https://news.lifeitself.org/", name: "Blog"},
     { href: "https://news.lifeitself.org/s/newsletter", name: "Newsletter"},
-    { href: "https://news.lifeitself.org/s/li-podcast", name: "Podcast" },
+    { href: "https://news.lifeitself.org/s/lifeitself-podcast", name: "Podcast" },
     { href: "/contact", name: "Contact"}
   ],
   socialLinks: {
