@@ -12,39 +12,37 @@ description: Sometime in the last few months, half in play and half in jest, we 
 
 Sometime in the last few months, half in play and half in jest, we coined the term "Kibbuddhism" to describe what we're doing at Art / Earth / Tech — or what we aspire to do. The name itself hints at its meaning if you're familiar with both Kibbutz and Buddhism as it combines the two.
 
+*Image: a photo of Degania (the first Kibbudtz) shortly after its founding in 1909.*
+
 ### What is Kibbuddhism?
 
-For us, Kibbuddhism is a term for the idea of creating intentional communities that integrate the pragmatic utopianism of the Kibbutz with the emphasis on spiritual and inner dimension of Buddhism -- understood broadly as a stand-in for open-minded cultivation of wisdom and the inner dimension more broadly.
+For us, Kibbuddhism is a term for the idea of creating intentional communities that integrate the pragmatic utopianism of the Kibbutz with the emphasis on spiritual and inner dimension of Buddhism -- understood broadly as a stand-in for open-minded cultivation of wisdom and the inner dimension.
 
-## What's the Kibbutz part?
+## What is the Kibbutz part?
 
-A Kibbutz was (and is) an intentional, utopian community in Israel. They began in the early to mid 20th century and combined socialism with Zionism.
+A Kibbutz was (and is) an intentional, utopian community in Israel. They began in the early to mid 20th century and combined socialism with Zionism. For us, the Kibbutz aspect of Kibbuddhism exists on several levels.
 
-For us, the Kibbutz aspect of Kibbuddhism exists on several levels.
+Like the Kibbutz we want to create intentional communities. Like the Kibbutz we want to have a pragmatic, practical, doing things approach. Like the Kibbutz there is a pioneering spirit both in ethos and in concretely realizing a utopian vision.
 
-Like the Kibbutz we want to create intentional communities.
-
-Like the Kibbutz we want to have a pragmatic, practical, doing things approach.
-
-Like the Kibbutz there is a pioneering spirit both in ethos and in concretely realizing a utopian vision.
-
-In the case of Kibbutz that vision was centered around Zionism and socialism, whilst for Art / Earth / Tech our focus is more on pragmatic utopianism and creating a radically wiser, weller world.
+In the case of Kibbutz, that vision was centered around Zionism and socialism, whilst for Art / Earth / Tech our focus is on [[pragmatic-utopianism|pragmatic utopianism]] and creating a radically wiser, weller world.
 
 In summary, the Kibbutz part is about wanting to create intentional communities with a pragmatic, pioneering spirit that are connected to a utopian ["big vision"](/big-vision/).
 
 ## What's the Buddhism part?
 
-So, the Kibbutz represents that pragmatic utopianism and what we want to add or update is a spiritual or inner dimension. Kibbutz were democratically socialist and focused on a nationalist project.
+So, the Kibbutz represents that pragmatic utopianism. They were democratically socialist and focused on a nationalist project. What do we want to add, or update?
 
-First, what we're dreaming of is a planetary project — one that's about transformation for all of humanity.
+First, we're dreaming of a planetary project — one that's about transformation for all of humanity.
 
 Second, our vision emphasizes cultivating inner capacities and wisdom. This is not necessarily tied to Buddhism specifically it is about prioritizing inner development whilst also engaging in outer action -- whilst many of us at Art / Earth / Tech Itself are inclined towards Buddhist principles we are open to wisdom from any tradition. 
 
 So the Buddhism part of Kibbuddhism brings the emphasis on the inner and spiritual dimension as well as a more universal, planetary aspect.
 
+In short, we want to add a spiritual or inner dimension that includes an enlargement to a planetary "all-humanity" vision.
+
 ## Conclusion
 
-So, there you have it. Kibbuddhism for us is about creating intentional communities that serve as practical paths towards a radically wiser world. And that is what Art / Earth / Tech is about: Kibbuddhism in its essence and fostering Kibbuddhist communities.
+ Kibbuddhism for us is about creating intentional communities that serve as practical paths towards a radically wiser world. And that is what Art / Earth / Tech is about: Kibbuddhism in its essence and fostering Kibbuddhist communities.
 
 ## Appendix
 ### PS: you've got to dream big
