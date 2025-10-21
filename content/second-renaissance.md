@@ -10,7 +10,7 @@ We live in a moment of civilizational crisis and awakening: the Second Renaissan
 
 <iframe src="https://youtube.com/embed/TtOdxV326-Y?feature=share" frameborder="0" height="500" width="500"></iframe>
 
-But what does come next? What will be born during this second renaissance? A future we believe that is radically weller and wiser. 
+But what does come next? What will be born during this second renaissance? A future that we hope is radically weller and wiser. 
 
 However, this is also a time of crisis. There is always a darkness before dawn. Think back to the last renaissance which was separated from the high middle ages by the black death, famine and war.
 
