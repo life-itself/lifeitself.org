@@ -4,6 +4,7 @@ created: 2023-11-25
 authors:
   - rufuspollock
 categories:
+  - second-renaissance
 image: /assets/blog/second-renaissance-101.png
 ---
 
