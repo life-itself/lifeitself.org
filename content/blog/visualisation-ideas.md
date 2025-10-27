@@ -125,6 +125,6 @@ Other aspects not explored here that vary considerably between different approac
 My tendency is more towards data heavy and technical approaches (of those explored here that would be graph, radial, small multiples, quadrant) and less towards design and interpretive approaches (flow, skeuomorphic). The former relies more on data collection and technical skills to realise and is more a *tool for sensemaking*, both in the exploration and creation of it and as a finished piece for the end-user. The latter relies more on prior sensemaking work and design skills, and is more a *communication or product of sensemaking*.
 
 ## Acknowledgement
-This analysis was undertaken as part of the ecosystem mapping research phase of the [Cohere+ project]([url](https://research.lifeitself.org/projects/cohere-plus-ecosystem-mapping), co-funded by the EU.
+This analysis was undertaken as part of the ecosystem mapping research phase of the [Cohere+ project](https://research.lifeitself.org/projects/cohere-plus-ecosystem-mapping), co-funded by the EU.
 ![cohere and co-funded EU logo xs](https://github.com/user-attachments/assets/9791a5a7-d26b-40fa-a069-b7c1abe564a0)
 
