@@ -18,7 +18,7 @@ This project is a very first step in the field-building efforts of a collaborati
 
 ## Key Resources
 
-- ['Building the Field for Developmental Spaces: a new project in collaboration with Fetzer Institute, Commonweal & Ekskäret']([url](https://lifeitself.org/blog/building-field-for-developmental-spaces)) (June 2023) - introducing the project background, plan, and collaborators
+- ['Building the Field for Developmental Spaces: a new project in collaboration with Fetzer Institute, Commonweal & Ekskäret'](https://lifeitself.org/blog/building-field-for-developmental-spaces) (June 2023) - introducing the project background, plan, and collaborators
 - Coming soon: a Manifesto in Progress: Developmental Spaces for a Time of Transition
 
 
