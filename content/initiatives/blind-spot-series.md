@@ -17,7 +17,7 @@ created: 2023-03-21
 
 ## Description
 
-Blind Spots is our series of conversations exploring the collective blind spots of our society.  
+Blind Spots is our series of conversations exploring the collective blind spots of our society.  test
   
 What is holding us back from creating a powerful vision for our future? What’s behind the rise in populism? What’s stopping us addressing climate change effectively?
 
